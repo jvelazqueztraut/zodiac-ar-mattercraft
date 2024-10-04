@@ -1,0 +1,3995 @@
+{
+	"animation": {
+		"clips": {
+			"029c02117653463d97e4e6cd739581dc": {
+				"id": "029c02117653463d97e4e6cd739581dc",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Piscis",
+				"order": "a5",
+				"scriptName": "Piscis",
+				"tracks": {
+					"667d51d66e1045ab9a67be7d42bc4880": {
+						"blend": "overlay",
+						"entityID": "31eb399b6323496aa35f52a545bac36d",
+						"id": "667d51d66e1045ab9a67be7d42bc4880",
+						"keyframes": {
+							"51390e541aa04348b72e2e0518f237d2": {
+								"id": "51390e541aa04348b72e2e0518f237d2",
+								"t": 0,
+								"v": [
+									0,
+									-0.19,
+									0.318245300462688
+								]
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"dbf12cc287734985ada1782f912f24a2": {
+						"blend": "overlay",
+						"entityID": "910398b935224d309796706b66066ace",
+						"id": "dbf12cc287734985ada1782f912f24a2",
+						"keyframes": {
+							"fba60d3482ab4728bed569315cc7f165": {
+								"id": "fba60d3482ab4728bed569315cc7f165",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"eb0005d78e64477c9e7ac00316e6a28b": {
+						"blend": "overlay",
+						"entityID": "be05c860df5f482eaa4326c21075657f",
+						"id": "eb0005d78e64477c9e7ac00316e6a28b",
+						"keyframes": {
+							"ace43ac956764699819916cbe7d63c31": {
+								"id": "ace43ac956764699819916cbe7d63c31",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZwV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			},
+			"10cd283c4ce54c8893543c77a013bbcf": {
+				"id": "10cd283c4ce54c8893543c77a013bbcf",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Visible",
+				"order": "a2",
+				"scriptName": "Visible",
+				"tracks": {
+					"8a26d405b1994ee79e825d945a4b0a92": {
+						"blend": "overlay",
+						"entityID": "a9dc423ea106420a8157706b6a8986d7",
+						"id": "8a26d405b1994ee79e825d945a4b0a92",
+						"keyframes": {
+							"dd5f64e1390547eb8f8f0c4cee092174": {
+								"id": "dd5f64e1390547eb8f8f0c4cee092174",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "a0",
+						"property": [
+							"opacity"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			},
+			"12d33a60d3654778b0e8f8180bd6c42b": {
+				"id": "12d33a60d3654778b0e8f8180bd6c42b",
+				"length": 4000,
+				"lengthType": "manual",
+				"name": "Rotation",
+				"order": "a4",
+				"scriptName": "Rotation",
+				"tracks": {
+					"52607e95d30b40a1a155460681016562": {
+						"blend": "overlay",
+						"entityID": "714bc9e134c74883a23c8a172f35a5ce",
+						"id": "52607e95d30b40a1a155460681016562",
+						"keyframes": {
+							"05b1fe53c3bf42978ae5659c3d56da91": {
+								"id": "05b1fe53c3bf42978ae5659c3d56da91",
+								"t": 4000,
+								"v": [
+									0,
+									6.283185307179586,
+									0
+								]
+							},
+							"2bf1a77c510d4b7e96179aa87a49a1ee": {
+								"easing": "linear",
+								"id": "2bf1a77c510d4b7e96179aa87a49a1ee",
+								"t": 1000,
+								"v": [
+									0.2617993877991494,
+									1.5707963267948966,
+									0
+								]
+							},
+							"64989e0ded3c4e27a07d4458c851448a": {
+								"easing": "linear",
+								"id": "64989e0ded3c4e27a07d4458c851448a",
+								"t": 3000,
+								"v": [
+									0.2617993877991494,
+									4.71238898038469,
+									0
+								]
+							},
+							"a2c26a34b9b04ecbb0689c4f9df2af29": {
+								"easing": "linear",
+								"id": "a2c26a34b9b04ecbb0689c4f9df2af29",
+								"t": 2000,
+								"v": [
+									-0.2617993877991494,
+									3.141592653589793,
+									0
+								]
+							},
+							"be639568f3894710a4a3e16439a93b04": {
+								"easing": "linear",
+								"id": "be639568f3894710a4a3e16439a93b04",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "a0",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"babbe1b98c9a4e74aaf5baba6c6b71c7": {
+						"blend": "overlay",
+						"entityID": "31eb399b6323496aa35f52a545bac36d",
+						"id": "babbe1b98c9a4e74aaf5baba6c6b71c7",
+						"keyframes": {
+							"03ecaf9bd6dc4692a4f0f5c4ec274c14": {
+								"easing": "linear",
+								"id": "03ecaf9bd6dc4692a4f0f5c4ec274c14",
+								"t": 2000,
+								"v": [
+									-0.2617993877991494,
+									3.141592653589793,
+									0
+								]
+							},
+							"0688d55e45694eb6a70c867e98bb29ea": {
+								"easing": "linear",
+								"id": "0688d55e45694eb6a70c867e98bb29ea",
+								"t": 3000,
+								"v": [
+									0.2617993877991494,
+									4.71238898038469,
+									0
+								]
+							},
+							"6a80e02fa31d4ddc96e7354c92f7f5ff": {
+								"id": "6a80e02fa31d4ddc96e7354c92f7f5ff",
+								"t": 4000,
+								"v": [
+									0,
+									6.283185307179586,
+									0
+								]
+							},
+							"c25eb1ae485348f4b0e9d9d70c283d1a": {
+								"easing": "linear",
+								"id": "c25eb1ae485348f4b0e9d9d70c283d1a",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							},
+							"c811dc7477b847cdbee1aa6b6927541b": {
+								"easing": "linear",
+								"id": "c811dc7477b847cdbee1aa6b6927541b",
+								"t": 1000,
+								"v": [
+									0.2617993877991494,
+									1.5707963267948966,
+									0
+								]
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"eecbd6043607473d9b49a333185f14b0": {
+						"blend": "overlay",
+						"entityID": "25257e8b78c845d6b78ef78290860131",
+						"id": "eecbd6043607473d9b49a333185f14b0",
+						"keyframes": {
+							"5b1ecbdd60b6432797ff0f5c14357821": {
+								"easing": "linear",
+								"id": "5b1ecbdd60b6432797ff0f5c14357821",
+								"t": 3000,
+								"v": [
+									0.2617993877991494,
+									4.71238898038469,
+									0
+								]
+							},
+							"90ebb60cddc74531ae112b6c2d5820d9": {
+								"easing": "linear",
+								"id": "90ebb60cddc74531ae112b6c2d5820d9",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							},
+							"a49443ac76904b118b80831b0059a281": {
+								"easing": "linear",
+								"id": "a49443ac76904b118b80831b0059a281",
+								"t": 2000,
+								"v": [
+									-0.2617993877991494,
+									3.141592653589793,
+									0
+								]
+							},
+							"f034e3ad8c464635ad9f4c1e4473d9af": {
+								"easing": "linear",
+								"id": "f034e3ad8c464635ad9f4c1e4473d9af",
+								"t": 1000,
+								"v": [
+									0.2617993877991494,
+									1.5707963267948966,
+									0
+								]
+							},
+							"f543c6b42be443d6b2b3afe1892838c1": {
+								"id": "f543c6b42be443d6b2b3afe1892838c1",
+								"t": 4000,
+								"v": [
+									0,
+									6.283185307179586,
+									0
+								]
+							}
+						},
+						"order": "Zy",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "timeline"
+			},
+			"16fcc9f5e32840c0b1fce2bfc7dd1629": {
+				"id": "16fcc9f5e32840c0b1fce2bfc7dd1629",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Sagittarius",
+				"order": "a7",
+				"scriptName": "Sagittarius",
+				"tracks": {
+					"0ca5148862cc48119568cebd1e611fa3": {
+						"blend": "overlay",
+						"entityID": "b60ccf0ffa3e4416bb8d76c8cf000ff5",
+						"id": "0ca5148862cc48119568cebd1e611fa3",
+						"keyframes": {
+							"f91ceb4b743f4d5483eed1f1c6673e6a": {
+								"id": "f91ceb4b743f4d5483eed1f1c6673e6a",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZwV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"829c2eda68ea499193fa5477690742de": {
+						"blend": "overlay",
+						"entityID": "3cd297a5dde94745a340d7b2a31deeef",
+						"id": "829c2eda68ea499193fa5477690742de",
+						"keyframes": {
+							"296f875603b8446391dedd347a1e877e": {
+								"id": "296f875603b8446391dedd347a1e877e",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"9a14a507148c45f4b9063f30205fcb7f": {
+						"blend": "overlay",
+						"entityID": "25257e8b78c845d6b78ef78290860131",
+						"id": "9a14a507148c45f4b9063f30205fcb7f",
+						"keyframes": {
+							"0333f87ed955409ebd1cb32a2920fa29": {
+								"id": "0333f87ed955409ebd1cb32a2920fa29",
+								"t": 0,
+								"v": [
+									0,
+									-0.19,
+									0.318245300462688
+								]
+							}
+						},
+						"order": "Zy",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			},
+			"5415bec54d2a471090921416f8ae7f27": {
+				"id": "5415bec54d2a471090921416f8ae7f27",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Taurus",
+				"order": "a6",
+				"scriptName": "Taurus",
+				"tracks": {
+					"36127b77f2d14ce19fbb1e5cd737e451": {
+						"blend": "overlay",
+						"entityID": "30cf602d71ea4d4b9ce3ee5d2c59b7d8",
+						"id": "36127b77f2d14ce19fbb1e5cd737e451",
+						"keyframes": {
+							"7ebd430248f64ecd8798c9529ac54139": {
+								"id": "7ebd430248f64ecd8798c9529ac54139",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"744d5f347d834f3d9b345a08ea1ddbef": {
+						"blend": "overlay",
+						"entityID": "0f278f0cddf64f6cb96fc1c0c3968cd0",
+						"id": "744d5f347d834f3d9b345a08ea1ddbef",
+						"keyframes": {
+							"08a2f9e8cd25402a83f8e3ba7f185334": {
+								"id": "08a2f9e8cd25402a83f8e3ba7f185334",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zu",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"b43aa64eb26c43a79505d92a8660165b": {
+						"blend": "overlay",
+						"entityID": "1866d00a466c4b44b63eac2291b1b3b0",
+						"id": "b43aa64eb26c43a79505d92a8660165b",
+						"keyframes": {
+							"fb8a55b00da84c27a0dbaba6353618dd": {
+								"id": "fb8a55b00da84c27a0dbaba6353618dd",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"b7d7e282b6754b389591433f5fd1d094": {
+						"blend": "overlay",
+						"entityID": "714bc9e134c74883a23c8a172f35a5ce",
+						"id": "b7d7e282b6754b389591433f5fd1d094",
+						"keyframes": {
+							"49f5873cb5a7415f8588e83368fb98f5": {
+								"id": "49f5873cb5a7415f8588e83368fb98f5",
+								"t": 0,
+								"v": [
+									0,
+									-0.19,
+									0.318245300462688
+								]
+							}
+						},
+						"order": "Zy",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			},
+			"6c7f5a6fbaf64992b974a0ebaef848aa": {
+				"defaultFadeParameters": {
+					"easing": "easeIn"
+				},
+				"id": "6c7f5a6fbaf64992b974a0ebaef848aa",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "On",
+				"order": "a1",
+				"scriptName": "On",
+				"tracks": {
+					"3e280babcfe64e8391690418d6e759d3": {
+						"blend": "overlay",
+						"entityID": "32271ea950074a9f97ad9283d9d42f4a",
+						"id": "3e280babcfe64e8391690418d6e759d3",
+						"keyframes": {
+							"b7acd55a46a740348037bb9feed3dfa2": {
+								"id": "b7acd55a46a740348037bb9feed3dfa2",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+						}
+					},
+					"b6f0f230f9fd4222aed8f968f7d071d0": {
+						"blend": "overlay",
+						"entityID": "32271ea950074a9f97ad9283d9d42f4a",
+						"id": "b6f0f230f9fd4222aed8f968f7d071d0",
+						"keyframes": {
+							"9d2654caa56847d9bbc53ec511ca13e8": {
+								"id": "9d2654caa56847d9bbc53ec511ca13e8",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			},
+			"b474239eb82f41b3bb7aa5f5ab7382fe": {
+				"id": "b474239eb82f41b3bb7aa5f5ab7382fe",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Hidden",
+				"order": "a3",
+				"scriptName": "Hidden",
+				"tracks": {
+					"f31f77e958b14af99036ef1817a7e1b7": {
+						"blend": "overlay",
+						"entityID": "a9dc423ea106420a8157706b6a8986d7",
+						"id": "f31f77e958b14af99036ef1817a7e1b7",
+						"keyframes": {
+							"93bd813bccfd41208d26907504415853": {
+								"id": "93bd813bccfd41208d26907504415853",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "a0",
+						"property": [
+							"opacity"
+						],
+						"type": "property",
+						"weight": {
+						}
+					}
+				},
+				"type": "state"
+			}
+		},
+		"curves": {
+		},
+		"layers": {
+			"2e6fd20d221d49eeae6694d1f5175678": {
+				"clips": {
+					"1deece67b0e84cfcb4da5d8cb837ca2c": {
+						"clipId": "16fcc9f5e32840c0b1fce2bfc7dd1629",
+						"id": "1deece67b0e84cfcb4da5d8cb837ca2c",
+						"order": "a4",
+						"scriptName": "Sagittarius0"
+					},
+					"824d98f696f44289ab0829cca0905fd6": {
+						"clipId": "5415bec54d2a471090921416f8ae7f27",
+						"id": "824d98f696f44289ab0829cca0905fd6",
+						"order": "a3",
+						"scriptName": "Taurus0"
+					},
+					"e8fb050890054c6bbf21508c92f045b7": {
+						"clipId": "029c02117653463d97e4e6cd739581dc",
+						"id": "e8fb050890054c6bbf21508c92f045b7",
+						"order": "a2",
+						"scriptName": "Piscis0"
+					}
+				},
+				"defaultClip": null,
+				"defaultFadeParameters": {
+					"easing": "easeOut",
+					"time": 1000
+				},
+				"enabled": true,
+				"id": "2e6fd20d221d49eeae6694d1f5175678",
+				"name": "Signs",
+				"order": "a4",
+				"scriptName": "Signs"
+			},
+			"b521f0adeba64c6daeb6874331e55bb2": {
+				"clips": {
+					"23c6a45e02a54304b09a436d354c847d": {
+						"clipId": "12d33a60d3654778b0e8f8180bd6c42b",
+						"id": "23c6a45e02a54304b09a436d354c847d",
+						"loop": true,
+						"order": "a2",
+						"playAtStart": true,
+						"scriptName": "Rotation0"
+					}
+				},
+				"defaultClip": "23c6a45e02a54304b09a436d354c847d",
+				"defaultFadeParameters": {
+					"easing": "ease",
+					"pin": 0,
+					"time": 300
+				},
+				"enabled": true,
+				"id": "b521f0adeba64c6daeb6874331e55bb2",
+				"name": "Animals",
+				"order": "a3",
+				"scriptName": "Animals"
+			},
+			"dbfbb5080f3c42ef969ef55c382916e3": {
+				"clips": {
+					"8a076e501f9b479f9f17d6ef1011f615": {
+						"clipId": "6c7f5a6fbaf64992b974a0ebaef848aa",
+						"id": "8a076e501f9b479f9f17d6ef1011f615",
+						"order": "a0",
+						"scriptName": "On"
+					}
+				},
+				"defaultClip": "8a076e501f9b479f9f17d6ef1011f615",
+				"enabled": true,
+				"id": "dbfbb5080f3c42ef969ef55c382916e3",
+				"name": "UI",
+				"order": "a1",
+				"scriptName": "UI"
+			},
+			"f66c32b0c42b473192513a18fe3f217c": {
+				"clips": {
+					"02007d340c464b6ba3b9a8535c106fa5": {
+						"clipId": "b474239eb82f41b3bb7aa5f5ab7382fe",
+						"id": "02007d340c464b6ba3b9a8535c106fa5",
+						"order": "a3",
+						"scriptName": "Hidden0"
+					},
+					"992dcf60741c4cdca3e11f29a0ce5cda": {
+						"clipId": "10cd283c4ce54c8893543c77a013bbcf",
+						"id": "992dcf60741c4cdca3e11f29a0ce5cda",
+						"order": "a2",
+						"scriptName": "Visible0"
+					}
+				},
+				"defaultClip": "992dcf60741c4cdca3e11f29a0ce5cda",
+				"defaultFadeParameters": {
+					"easing": "ease",
+					"pin": 0,
+					"reverse": false,
+					"time": 500
+				},
+				"enabled": true,
+				"id": "f66c32b0c42b473192513a18fe3f217c",
+				"name": "AnchorVisibility",
+				"order": "a2",
+				"scriptName": "AnchorVisibility"
+			}
+		}
+	},
+	"behaviors": {
+		"0f278f0cddf64f6cb96fc1c0c3968cd0": {
+			"id": "0f278f0cddf64f6cb96fc1c0c3968cd0",
+			"label": "Animation",
+			"parent": {
+				"id": "b699bca192ae41bb8957d9e8e7a0e0a3",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"1c85a16c40a14d649545f0ce4d22c339": {
+			"id": "1c85a16c40a14d649545f0ce4d22c339",
+			"label": "Animation",
+			"parent": {
+				"id": "16d1cdf4e0b94fbc81d83062b02c0dce",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"252f3d14cc4448b8a2be9c512cf8c67e": {
+			"id": "252f3d14cc4448b8a2be9c512cf8c67e",
+			"label": "SetLayerOff",
+			"parent": {
+				"id": "b6ff047199cb42b1a998fc271d129e44",
+				"order": "a0",
+				"scriptName": "SetLayerOff"
+			},
+			"type": "@zcomponent/core/lib/behaviors/SetLayerOff#SetLayerOff"
+		},
+		"274b5041514a4858819fe3b2c520220d": {
+			"id": "274b5041514a4858819fe3b2c520220d",
+			"label": "Animation",
+			"parent": {
+				"id": "a8b5530c463e4f76993626085813f5bd",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"31a484f6566d4613bced79c163c4c1c3": {
+			"id": "31a484f6566d4613bced79c163c4c1c3",
+			"label": "Animation",
+			"parent": {
+				"id": "c6a153146ba64b4a89b73b518b8d0a06",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"33903b710fa54a0993c350d66d06c954": {
+			"id": "33903b710fa54a0993c350d66d06c954",
+			"label": "Animation",
+			"parent": {
+				"id": "2405e087e7854f55a14a0130ca5750a1",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"383d63a802d44dd784f2dd3ebb868685": {
+			"id": "383d63a802d44dd784f2dd3ebb868685",
+			"label": "Animation",
+			"parent": {
+				"id": "354eca33172042ceae7961f15b2fc815",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"39853307da3740e08f6648dad108ad24": {
+			"id": "39853307da3740e08f6648dad108ad24",
+			"label": "MyBehavior",
+			"parent": {
+				"id": "45cc5cf8832c4c1bb0bb679e1a03d95f",
+				"order": "a0",
+				"scriptName": "MyBehavior"
+			},
+			"type": "./Behaviors/Slider.ts#MyBehavior"
+		},
+		"43c15e5eb4934b85a13c4db385804408": {
+			"id": "43c15e5eb4934b85a13c4db385804408",
+			"label": "Animation",
+			"parent": {
+				"id": "f33b911eb86f44fcb7780026ce8a6154",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"5126148a9946464bb3c530ffa95ae665": {
+			"id": "5126148a9946464bb3c530ffa95ae665",
+			"label": "Animation",
+			"parent": {
+				"id": "fc653bd251fb4a5dbc82ae460beb6f2f",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"5c496e8a4f7347a694eed97a9320010a": {
+			"id": "5c496e8a4f7347a694eed97a9320010a",
+			"label": "Animation",
+			"parent": {
+				"id": "4d24a5d3c184439aaa1232d41e2d95d0",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"71822a75b4b04c8899c368fe95913fc0": {
+			"id": "71822a75b4b04c8899c368fe95913fc0",
+			"label": "Animation",
+			"parent": {
+				"id": "4d1083f7500a4d9d9045e66ced068df7",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"7afd2d957d1e4895b8ec7943cbc6b15f": {
+			"id": "7afd2d957d1e4895b8ec7943cbc6b15f",
+			"label": "Animation",
+			"parent": {
+				"id": "658fc07e48c648a7b0eaffbb7ff2bad3",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"7cbdcfa6d3e84c51ae25191b51dede49": {
+			"id": "7cbdcfa6d3e84c51ae25191b51dede49",
+			"label": "Animation",
+			"parent": {
+				"id": "994503a72dbd43c587db24c9b36ad43b",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"85d9c03d60c442b88dab2d1b353bc24c": {
+			"id": "85d9c03d60c442b88dab2d1b353bc24c",
+			"label": "Animation",
+			"parent": {
+				"id": "d680c67a6bc94f8ea030759b9c847ddd",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"8f062324679c4cc093e25f822cfd2e65": {
+			"id": "8f062324679c4cc093e25f822cfd2e65",
+			"label": "Animation",
+			"parent": {
+				"id": "9b28aecc2df34d30a212fe649c150783",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"a6fa79bdb0d54f9db22d703d5f984ae0": {
+			"id": "a6fa79bdb0d54f9db22d703d5f984ae0",
+			"label": "Animation",
+			"parent": {
+				"id": "5142cc2ca99e4b1997ca8aa79e6e650f",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"a82df52e6b654cefbb417ab15be22f2d": {
+			"id": "a82df52e6b654cefbb417ab15be22f2d",
+			"label": "Animation",
+			"parent": {
+				"id": "3e09968b0f6346ad8ea905c7bcab08f7",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"a9dc423ea106420a8157706b6a8986d7": {
+			"id": "a9dc423ea106420a8157706b6a8986d7",
+			"parent": {
+				"id": "1517a9da39084068af64dc91091994c2",
+				"order": "a4"
+			},
+			"type": "@zcomponent/three/lib/behaviors/OverrideOpacity#OverrideOpacity"
+		},
+		"add644ffd3ff42dba188bccaf0122c0f": {
+			"id": "add644ffd3ff42dba188bccaf0122c0f",
+			"label": "Animation",
+			"parent": {
+				"id": "cf366c7c386d4ae48a55b9a54c03a907",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"b87b97f0c03143d4a983cae062acd597": {
+			"id": "b87b97f0c03143d4a983cae062acd597",
+			"label": "Animation",
+			"parent": {
+				"id": "2cca197217ca429190fee3af460285dc",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"babc808e504b4d34ba9cc079e958585b": {
+			"id": "babc808e504b4d34ba9cc079e958585b",
+			"label": "Animation",
+			"parent": {
+				"id": "300f27baf3f14b8882e35696b6058bff",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"bb5ee34023014c86b626ac58135b8e88": {
+			"id": "bb5ee34023014c86b626ac58135b8e88",
+			"label": "Animation",
+			"parent": {
+				"id": "90d41b5f346340a99c4efeac3ea5a9bd",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"d0a5b4c2ee1e457f9d4351bc7c97c90b": {
+			"id": "d0a5b4c2ee1e457f9d4351bc7c97c90b",
+			"label": "Animation",
+			"parent": {
+				"id": "94e1238090434a4a9ffeacd2f8d16151",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"d12bc01a36d54cada154f06f4871a2ef": {
+			"id": "d12bc01a36d54cada154f06f4871a2ef",
+			"label": "Animation",
+			"parent": {
+				"id": "7a5cac26a35e4daaae56dff87221bf11",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"d361e0d8b9f44e82a421775874f6adc1": {
+			"id": "d361e0d8b9f44e82a421775874f6adc1",
+			"label": "Animation",
+			"parent": {
+				"id": "01821e4228434a43be2b79e7e8e31f5f",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"d46eb4fea9ab44ff82bec64f5be04182": {
+			"id": "d46eb4fea9ab44ff82bec64f5be04182",
+			"label": "Animation",
+			"parent": {
+				"id": "21ee6fa9ec434f93a2f6ca78f23bb491",
+				"order": "a0",
+				"scriptName": "Animation0"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"d6575476d7b9454ea278c939dc0bd972": {
+			"id": "d6575476d7b9454ea278c939dc0bd972",
+			"label": "Animation",
+			"parent": {
+				"id": "d5807c6ea92c44fd95cfb5cf9111fe34",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"ed4b9ab42a7c45db9a3ee041a1a4c19a": {
+			"id": "ed4b9ab42a7c45db9a3ee041a1a4c19a",
+			"label": "Animation",
+			"parent": {
+				"id": "d64ae5442bbc4eb8911c073954f1765a",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"f26e7c1e4abe45ce9ad0f0ce6612d281": {
+			"id": "f26e7c1e4abe45ce9ad0f0ce6612d281",
+			"label": "Animation",
+			"parent": {
+				"id": "3d67836574244c46a51b53b0d93aad88",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"f6208c0645b74f1d9ade630683948a37": {
+			"id": "f6208c0645b74f1d9ade630683948a37",
+			"label": "Animation",
+			"parent": {
+				"id": "3519292236ee421ea32be2d6e2886ccc",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"fbb8f3a6a8a64e1f8ab586d62a4a2004": {
+			"id": "fbb8f3a6a8a64e1f8ab586d62a4a2004",
+			"label": "Animation",
+			"parent": {
+				"id": "45201c0d930a48299631d8cccc392cf8",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		},
+		"fc7e0602b6a9462eade1ef905f739907": {
+			"id": "fc7e0602b6a9462eade1ef905f739907",
+			"label": "Animation",
+			"parent": {
+				"id": "91a1801bfa2b43219bf289ac571394fe",
+				"order": "a0",
+				"scriptName": "Animation"
+			},
+			"type": "@zcomponent/three/lib/behaviors/Animation#Animation"
+		}
+	},
+	"constructorProps": {
+	},
+	"entitiesByLabel": {
+		"Bull 1": {
+			"b699bca192ae41bb8957d9e8e7a0e0a3": true
+		},
+		"Bull 10": {
+			"fc653bd251fb4a5dbc82ae460beb6f2f": true
+		},
+		"Bull 2": {
+			"2cca197217ca429190fee3af460285dc": true
+		},
+		"Bull 3": {
+			"4d24a5d3c184439aaa1232d41e2d95d0": true
+		},
+		"Bull 4": {
+			"90d41b5f346340a99c4efeac3ea5a9bd": true
+		},
+		"Bull 5": {
+			"c6a153146ba64b4a89b73b518b8d0a06": true
+		},
+		"Bull 6": {
+			"d64ae5442bbc4eb8911c073954f1765a": true
+		},
+		"Bull 7": {
+			"d680c67a6bc94f8ea030759b9c847ddd": true
+		},
+		"Bull 8": {
+			"9b28aecc2df34d30a212fe649c150783": true
+		},
+		"Bull 9": {
+			"4d1083f7500a4d9d9045e66ced068df7": true
+		},
+		"Button": {
+			"b6ff047199cb42b1a998fc271d129e44": true
+		},
+		"CSS": {
+			"077ba7407b4742c4984406ef5ade482f": true
+		},
+		"CameraEnvironmentMap": {
+			"8cfafbf6de4a4576a4d0f90965423e85": true
+		},
+		"CameraTransform": {
+			"00d78852b08940c6ac753b6e18600669": true
+		},
+		"Card": {
+			"ea2f4196123646ebaafbb17faafd9752": true
+		},
+		"Card Footer": {
+			"d0f0e3dd1c414a92a7252ceb39fbb0c4": true
+		},
+		"Card Header": {
+			"3f81004d2c364baca896f82e6bbf70ac": true
+		},
+		"DefaultCookieConsent": {
+			"0ba8e27369df45ca897731dcb1e39bcf": true
+		},
+		"DefaultLoader": {
+			"52148d8eafe3426085e700e049662c07": true
+		},
+		"Defaults": {
+			"7b6fb4d895774174b5d151eec86b704c": true
+		},
+		"DirectionalLight": {
+			"857f9901b65b42c89a3ff04470d70738": true
+		},
+		"FaceAnchorGroup": {
+			"1517a9da39084068af64dc91091994c2": true
+		},
+		"FaceTracker": {
+			"852c3b84d2af4c70b87ce6173ee40164": true
+		},
+		"Fish.glb": {
+			"21ee6fa9ec434f93a2f6ca78f23bb491": true
+		},
+		"Fish.glb 10": {
+			"300f27baf3f14b8882e35696b6058bff": true
+		},
+		"Fish.glb 2": {
+			"01821e4228434a43be2b79e7e8e31f5f": true
+		},
+		"Fish.glb 3": {
+			"3e09968b0f6346ad8ea905c7bcab08f7": true
+		},
+		"Fish.glb 4": {
+			"cf366c7c386d4ae48a55b9a54c03a907": true
+		},
+		"Fish.glb 5": {
+			"7a5cac26a35e4daaae56dff87221bf11": true
+		},
+		"Fish.glb 6": {
+			"d5807c6ea92c44fd95cfb5cf9111fe34": true
+		},
+		"Fish.glb 7": {
+			"91a1801bfa2b43219bf289ac571394fe": true
+		},
+		"Fish.glb 8": {
+			"16d1cdf4e0b94fbc81d83062b02c0dce": true
+		},
+		"Fish.glb 9": {
+			"45201c0d930a48299631d8cccc392cf8": true
+		},
+		"Group": {
+			"root": true
+		},
+		"HTML": {
+			"32271ea950074a9f97ad9283d9d42f4a": true
+		},
+		"HeadMaskMesh": {
+			"b2018d5592a1415abc9ca1270de117a2": true
+		},
+		"Heading": {
+			"fb6c765b23ab4de792b7f083df8a29c7": true
+		},
+		"Horse 1": {
+			"2405e087e7854f55a14a0130ca5750a1": true
+		},
+		"Horse 10": {
+			"994503a72dbd43c587db24c9b36ad43b": true
+		},
+		"Horse 2": {
+			"3519292236ee421ea32be2d6e2886ccc": true
+		},
+		"Horse 3": {
+			"f33b911eb86f44fcb7780026ce8a6154": true
+		},
+		"Horse 4": {
+			"94e1238090434a4a9ffeacd2f8d16151": true
+		},
+		"Horse 5": {
+			"354eca33172042ceae7961f15b2fc815": true
+		},
+		"Horse 6": {
+			"5142cc2ca99e4b1997ca8aa79e6e650f": true
+		},
+		"Horse 7": {
+			"658fc07e48c648a7b0eaffbb7ff2bad3": true
+		},
+		"Horse 8": {
+			"3d67836574244c46a51b53b0d93aad88": true
+		},
+		"Horse 9": {
+			"a8b5530c463e4f76993626085813f5bd": true
+		},
+		"Moon Text": {
+			"286fab14b33644ddb348be50e70f4635": true
+		},
+		"Moon-symbol.png": {
+			"2a9364dd675842be97a344f5ff4a17e2": true
+		},
+		"MoonIndicator": {
+			"3b94f7320cff4c4cbceebe5c735b5745": true
+		},
+		"MoonIndicator Material": {
+			"dcec3f90b7ea457698682246420d3393": true
+		},
+		"Paragraph": {
+			"9f29866c4d5443429d1bcb5000d7aa8d": true
+		},
+		"Piscis": {
+			"910398b935224d309796706b66066ace": true,
+			"be05c860df5f482eaa4326c21075657f": true
+		},
+		"Piscis Animals": {
+			"31eb399b6323496aa35f52a545bac36d": true
+		},
+		"Pisicis Face Mesh Texture": {
+			"86a3c85254304a0da892f1ae63e6ac48": true
+		},
+		"Pisicis FaceMesh": {
+			"879818c313ee415a92ebb3b10d71fc96": true
+		},
+		"Pisicis HueSaturationEffectPass": {
+			"c8d9f0e7583642828ef4a51336c713fa": true
+		},
+		"Pisicis Standard Material": {
+			"c034b3addda84d39951b2fe3b88c2f7e": true
+		},
+		"Pisicis VignetteEffectPass": {
+			"f06a0d916a874499bd9a57da0c8238bd": true
+		},
+		"Post processing": {
+			"692b3785603c42d392f0f9f4f5d7d493": true
+		},
+		"Rising Text": {
+			"1dd01cb3bed74fbb9df11accdcdc650f": true
+		},
+		"Rising-symbol.png": {
+			"6304869389a54333a6e313a28118f59d": true
+		},
+		"RisingIndicator": {
+			"1147f23b862c49909fd29c78ebcbfe49": true
+		},
+		"RisingIndicator Material": {
+			"23a09c12417a45eb9c2a95adfb015502": true
+		},
+		"Sagittarius": {
+			"3cd297a5dde94745a340d7b2a31deeef": true,
+			"b60ccf0ffa3e4416bb8d76c8cf000ff5": true
+		},
+		"Sagittarius Animals": {
+			"25257e8b78c845d6b78ef78290860131": true
+		},
+		"Sagittarius Face Mesh Texture": {
+			"55d475026441409686a7cc24a443a603": true
+		},
+		"Sagittarius FaceMesh": {
+			"273fea67ed034368a15b5c230ea9f426": true
+		},
+		"Sagittarius HueSaturationEffectPass": {
+			"0d94e53a07f349de9e17fde1857ef85b": true
+		},
+		"Sagittarius Standard Material": {
+			"335457661d7149ac93e025d02517eedf": true
+		},
+		"Sagittarius VignetteEffectPass": {
+			"5b462d9d143d482eba10bc3820a3f41d": true
+		},
+		"Shape Image": {
+			"a12fb448c1ce4293b83d66a2b553f9f0": true
+		},
+		"Sun Text": {
+			"324a5db9080d4375a3290ef7a0de921d": true
+		},
+		"Sun-symbol.png": {
+			"0a8941008eb9483c9d03dfe415d17b5c": true
+		},
+		"SunIndicator": {
+			"3ffc9f82f27f4358b32029895cf2cbeb": true
+		},
+		"SunIndicator Material": {
+			"03fd979449cf4ae48011dfb74e8f6884": true
+		},
+		"Taurus": {
+			"1866d00a466c4b44b63eac2291b1b3b0": true,
+			"30cf602d71ea4d4b9ce3ee5d2c59b7d8": true
+		},
+		"Taurus Animals": {
+			"714bc9e134c74883a23c8a172f35a5ce": true
+		},
+		"Taurus Face Mesh Texture": {
+			"086bb5bffb394892a4a372758001eab7": true
+		},
+		"Taurus FaceMesh": {
+			"1e5b855f6d254201b7cbf9ce252bb40e": true
+		},
+		"Taurus HueSaturationEffectPass": {
+			"f5c9df8558ef4457948316828ecba09a": true
+		},
+		"Taurus Standard Material": {
+			"4d30bb635dac4c7fa060cede25a10bbc": true
+		},
+		"Taurus VignetteEffectPass": {
+			"a06697898a62412695c2ba67b827d03d": true
+		},
+		"TouchIndicator": {
+			"45cc5cf8832c4c1bb0bb679e1a03d95f": true
+		},
+		"TouchIndicator Material": {
+			"bd3759d3ae2f49c088cca893da00606f": true
+		},
+		"VideoRecorderUI": {
+			"dc55087a11004443afbef463af5cc65e": true
+		},
+		"ZapparCamera": {
+			"d056c264c3d345908a1345aeb612ed9d": true
+		},
+		"ZodiacAR_logo_white.png": {
+			"1ae160986e6147b480fb9acc54e4943b": true
+		}
+	},
+	"entitiesByScriptName": {
+		"Bull_1": {
+			"b699bca192ae41bb8957d9e8e7a0e0a3": true
+		},
+		"Bull_10": {
+			"fc653bd251fb4a5dbc82ae460beb6f2f": true
+		},
+		"Bull_2": {
+			"2cca197217ca429190fee3af460285dc": true
+		},
+		"Bull_3": {
+			"4d24a5d3c184439aaa1232d41e2d95d0": true
+		},
+		"Bull_4": {
+			"90d41b5f346340a99c4efeac3ea5a9bd": true
+		},
+		"Bull_5": {
+			"c6a153146ba64b4a89b73b518b8d0a06": true
+		},
+		"Bull_6": {
+			"d64ae5442bbc4eb8911c073954f1765a": true
+		},
+		"Bull_7": {
+			"d680c67a6bc94f8ea030759b9c847ddd": true
+		},
+		"Bull_8": {
+			"9b28aecc2df34d30a212fe649c150783": true
+		},
+		"Bull_9": {
+			"4d1083f7500a4d9d9045e66ced068df7": true
+		},
+		"Button": {
+			"b6ff047199cb42b1a998fc271d129e44": true
+		},
+		"CSS": {
+			"077ba7407b4742c4984406ef5ade482f": true
+		},
+		"CameraEnvironmentMap": {
+			"8cfafbf6de4a4576a4d0f90965423e85": true
+		},
+		"CameraTransform": {
+			"00d78852b08940c6ac753b6e18600669": true
+		},
+		"Card": {
+			"ea2f4196123646ebaafbb17faafd9752": true
+		},
+		"Card_Footer": {
+			"d0f0e3dd1c414a92a7252ceb39fbb0c4": true
+		},
+		"Card_Header": {
+			"3f81004d2c364baca896f82e6bbf70ac": true
+		},
+		"DefaultCookieConsent": {
+			"0ba8e27369df45ca897731dcb1e39bcf": true
+		},
+		"DefaultLoader": {
+			"52148d8eafe3426085e700e049662c07": true
+		},
+		"Defaults": {
+			"7b6fb4d895774174b5d151eec86b704c": true
+		},
+		"DirectionalLight": {
+			"857f9901b65b42c89a3ff04470d70738": true
+		},
+		"FaceAnchorGroup": {
+			"1517a9da39084068af64dc91091994c2": true
+		},
+		"FaceTracker": {
+			"852c3b84d2af4c70b87ce6173ee40164": true
+		},
+		"Fish_glb": {
+			"21ee6fa9ec434f93a2f6ca78f23bb491": true
+		},
+		"Fish_glb0": {
+			"01821e4228434a43be2b79e7e8e31f5f": true
+		},
+		"Fish_glb1": {
+			"3e09968b0f6346ad8ea905c7bcab08f7": true
+		},
+		"Fish_glb2": {
+			"cf366c7c386d4ae48a55b9a54c03a907": true
+		},
+		"Fish_glb3": {
+			"7a5cac26a35e4daaae56dff87221bf11": true
+		},
+		"Fish_glb4": {
+			"d5807c6ea92c44fd95cfb5cf9111fe34": true
+		},
+		"Fish_glb5": {
+			"91a1801bfa2b43219bf289ac571394fe": true
+		},
+		"Fish_glb6": {
+			"16d1cdf4e0b94fbc81d83062b02c0dce": true
+		},
+		"Fish_glb7": {
+			"45201c0d930a48299631d8cccc392cf8": true
+		},
+		"Fish_glb8": {
+			"300f27baf3f14b8882e35696b6058bff": true
+		},
+		"HTML": {
+			"32271ea950074a9f97ad9283d9d42f4a": true
+		},
+		"HeadMaskMesh": {
+			"b2018d5592a1415abc9ca1270de117a2": true
+		},
+		"Heading": {
+			"fb6c765b23ab4de792b7f083df8a29c7": true
+		},
+		"Horse_1": {
+			"2405e087e7854f55a14a0130ca5750a1": true
+		},
+		"Horse_10": {
+			"994503a72dbd43c587db24c9b36ad43b": true
+		},
+		"Horse_2": {
+			"3519292236ee421ea32be2d6e2886ccc": true
+		},
+		"Horse_3": {
+			"f33b911eb86f44fcb7780026ce8a6154": true
+		},
+		"Horse_4": {
+			"94e1238090434a4a9ffeacd2f8d16151": true
+		},
+		"Horse_5": {
+			"354eca33172042ceae7961f15b2fc815": true
+		},
+		"Horse_6": {
+			"5142cc2ca99e4b1997ca8aa79e6e650f": true
+		},
+		"Horse_7": {
+			"658fc07e48c648a7b0eaffbb7ff2bad3": true
+		},
+		"Horse_8": {
+			"3d67836574244c46a51b53b0d93aad88": true
+		},
+		"Horse_9": {
+			"a8b5530c463e4f76993626085813f5bd": true
+		},
+		"MoonIndicator": {
+			"3b94f7320cff4c4cbceebe5c735b5745": true
+		},
+		"MoonIndicator_Material": {
+			"dcec3f90b7ea457698682246420d3393": true
+		},
+		"Moon_Text": {
+			"286fab14b33644ddb348be50e70f4635": true
+		},
+		"Moon_symbol_png": {
+			"2a9364dd675842be97a344f5ff4a17e2": true
+		},
+		"Paragraph": {
+			"9f29866c4d5443429d1bcb5000d7aa8d": true
+		},
+		"Piscis": {
+			"be05c860df5f482eaa4326c21075657f": true
+		},
+		"Piscis0": {
+			"910398b935224d309796706b66066ace": true
+		},
+		"Piscis_Animals": {
+			"31eb399b6323496aa35f52a545bac36d": true
+		},
+		"Pisicis_FaceMesh": {
+			"879818c313ee415a92ebb3b10d71fc96": true
+		},
+		"Pisicis_FaceMeshTexture": {
+			"86a3c85254304a0da892f1ae63e6ac48": true
+		},
+		"Pisicis_HueSaturationEffectPass": {
+			"c8d9f0e7583642828ef4a51336c713fa": true
+		},
+		"Pisicis_StandardMaterial": {
+			"c034b3addda84d39951b2fe3b88c2f7e": true
+		},
+		"Pisicis_VignetteEffectPass": {
+			"f06a0d916a874499bd9a57da0c8238bd": true
+		},
+		"Post_processing": {
+			"692b3785603c42d392f0f9f4f5d7d493": true
+		},
+		"RisingIndicator": {
+			"1147f23b862c49909fd29c78ebcbfe49": true
+		},
+		"RisingIndicator_Material": {
+			"23a09c12417a45eb9c2a95adfb015502": true
+		},
+		"Rising_Text": {
+			"1dd01cb3bed74fbb9df11accdcdc650f": true
+		},
+		"Rising_symbol_png": {
+			"6304869389a54333a6e313a28118f59d": true
+		},
+		"Sagittarius": {
+			"b60ccf0ffa3e4416bb8d76c8cf000ff5": true
+		},
+		"Sagittarius0": {
+			"3cd297a5dde94745a340d7b2a31deeef": true
+		},
+		"Sagittarius_Animals": {
+			"25257e8b78c845d6b78ef78290860131": true
+		},
+		"Sagittarius_FaceMesh": {
+			"273fea67ed034368a15b5c230ea9f426": true
+		},
+		"Sagittarius_FaceMeshTexture": {
+			"55d475026441409686a7cc24a443a603": true
+		},
+		"Sagittarius_HueSaturationEffectPass": {
+			"0d94e53a07f349de9e17fde1857ef85b": true
+		},
+		"Sagittarius_StandardMaterial": {
+			"335457661d7149ac93e025d02517eedf": true
+		},
+		"Sagittarius_VignetteEffectPass": {
+			"5b462d9d143d482eba10bc3820a3f41d": true
+		},
+		"Shape_Image": {
+			"a12fb448c1ce4293b83d66a2b553f9f0": true
+		},
+		"SunIndicator": {
+			"3ffc9f82f27f4358b32029895cf2cbeb": true
+		},
+		"SunIndicator_Material": {
+			"03fd979449cf4ae48011dfb74e8f6884": true
+		},
+		"Sun_Text": {
+			"324a5db9080d4375a3290ef7a0de921d": true
+		},
+		"Sun_symbol_png": {
+			"0a8941008eb9483c9d03dfe415d17b5c": true
+		},
+		"Taurus": {
+			"1866d00a466c4b44b63eac2291b1b3b0": true
+		},
+		"Taurus0": {
+			"30cf602d71ea4d4b9ce3ee5d2c59b7d8": true
+		},
+		"Taurus_Animals": {
+			"714bc9e134c74883a23c8a172f35a5ce": true
+		},
+		"Taurus_FaceMesh": {
+			"1e5b855f6d254201b7cbf9ce252bb40e": true
+		},
+		"Taurus_FaceMeshTexture": {
+			"086bb5bffb394892a4a372758001eab7": true
+		},
+		"Taurus_HueSaturationEffectPass": {
+			"f5c9df8558ef4457948316828ecba09a": true
+		},
+		"Taurus_StandardMaterial": {
+			"4d30bb635dac4c7fa060cede25a10bbc": true
+		},
+		"Taurus_VignetteEffectPass": {
+			"a06697898a62412695c2ba67b827d03d": true
+		},
+		"TouchIndicator": {
+			"45cc5cf8832c4c1bb0bb679e1a03d95f": true
+		},
+		"TouchIndicator_Material": {
+			"bd3759d3ae2f49c088cca893da00606f": true
+		},
+		"VideoRecorderUI": {
+			"dc55087a11004443afbef463af5cc65e": true
+		},
+		"ZapparCamera": {
+			"d056c264c3d345908a1345aeb612ed9d": true
+		},
+		"ZodiacAR_logo_white_png": {
+			"1ae160986e6147b480fb9acc54e4943b": true
+		}
+	},
+	"entityConstructorProps": {
+		"00d78852b08940c6ac753b6e18600669": {
+		},
+		"01821e4228434a43be2b79e7e8e31f5f": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"03fd979449cf4ae48011dfb74e8f6884": {
+		},
+		"077ba7407b4742c4984406ef5ade482f": {
+			"source": "file://./styles.css"
+		},
+		"086bb5bffb394892a4a372758001eab7": {
+			"source": "file://./Assets/Textures/faceMeshTaurus.png"
+		},
+		"0a8941008eb9483c9d03dfe415d17b5c": {
+			"source": "file://./Assets/Images/Sun.png"
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+		},
+		"0d94e53a07f349de9e17fde1857ef85b": {
+			"blendFunction": "COLOR",
+			"hue": 1,
+			"saturation": 0.2
+		},
+		"0f278f0cddf64f6cb96fc1c0c3968cd0": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"1147f23b862c49909fd29c78ebcbfe49": {
+		},
+		"1517a9da39084068af64dc91091994c2": {
+		},
+		"16d1cdf4e0b94fbc81d83062b02c0dce": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"1866d00a466c4b44b63eac2291b1b3b0": {
+		},
+		"1ae160986e6147b480fb9acc54e4943b": {
+			"source": "file://./Assets/Images/ZodiacAR_logo_white.png"
+		},
+		"1c85a16c40a14d649545f0ce4d22c339": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"1dd01cb3bed74fbb9df11accdcdc650f": {
+		},
+		"1e5b855f6d254201b7cbf9ce252bb40e": {
+		},
+		"21ee6fa9ec434f93a2f6ca78f23bb491": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"23a09c12417a45eb9c2a95adfb015502": {
+		},
+		"2405e087e7854f55a14a0130ca5750a1": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"25257e8b78c845d6b78ef78290860131": {
+		},
+		"252f3d14cc4448b8a2be9c512cf8c67e": {
+			"event": "onClick"
+		},
+		"273fea67ed034368a15b5c230ea9f426": {
+		},
+		"274b5041514a4858819fe3b2c520220d": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"286fab14b33644ddb348be50e70f4635": {
+		},
+		"2a9364dd675842be97a344f5ff4a17e2": {
+			"source": "file://./Assets/Images/Moon.png"
+		},
+		"2cca197217ca429190fee3af460285dc": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"300f27baf3f14b8882e35696b6058bff": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"30cf602d71ea4d4b9ce3ee5d2c59b7d8": {
+		},
+		"31a484f6566d4613bced79c163c4c1c3": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"31eb399b6323496aa35f52a545bac36d": {
+		},
+		"32271ea950074a9f97ad9283d9d42f4a": {
+		},
+		"324a5db9080d4375a3290ef7a0de921d": {
+		},
+		"335457661d7149ac93e025d02517eedf": {
+		},
+		"33903b710fa54a0993c350d66d06c954": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"3519292236ee421ea32be2d6e2886ccc": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"354eca33172042ceae7961f15b2fc815": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"383d63a802d44dd784f2dd3ebb868685": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"39853307da3740e08f6648dad108ad24": {
+		},
+		"3b94f7320cff4c4cbceebe5c735b5745": {
+		},
+		"3cd297a5dde94745a340d7b2a31deeef": {
+		},
+		"3d67836574244c46a51b53b0d93aad88": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"3e09968b0f6346ad8ea905c7bcab08f7": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"3f81004d2c364baca896f82e6bbf70ac": {
+		},
+		"3ffc9f82f27f4358b32029895cf2cbeb": {
+		},
+		"43c15e5eb4934b85a13c4db385804408": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"45201c0d930a48299631d8cccc392cf8": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"45cc5cf8832c4c1bb0bb679e1a03d95f": {
+		},
+		"4d1083f7500a4d9d9045e66ced068df7": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"4d24a5d3c184439aaa1232d41e2d95d0": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"4d30bb635dac4c7fa060cede25a10bbc": {
+		},
+		"5126148a9946464bb3c530ffa95ae665": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"5142cc2ca99e4b1997ca8aa79e6e650f": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"52148d8eafe3426085e700e049662c07": {
+		},
+		"55d475026441409686a7cc24a443a603": {
+			"source": "file://./Assets/Textures/faceMeshSagittarius.png"
+		},
+		"5b462d9d143d482eba10bc3820a3f41d": {
+		},
+		"5c496e8a4f7347a694eed97a9320010a": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"6304869389a54333a6e313a28118f59d": {
+			"source": "file://./Assets/Images/Rising.png"
+		},
+		"658fc07e48c648a7b0eaffbb7ff2bad3": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"692b3785603c42d392f0f9f4f5d7d493": {
+		},
+		"714bc9e134c74883a23c8a172f35a5ce": {
+		},
+		"71822a75b4b04c8899c368fe95913fc0": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"7a5cac26a35e4daaae56dff87221bf11": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"7afd2d957d1e4895b8ec7943cbc6b15f": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+		},
+		"7cbdcfa6d3e84c51ae25191b51dede49": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"852c3b84d2af4c70b87ce6173ee40164": {
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+		},
+		"85d9c03d60c442b88dab2d1b353bc24c": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"86a3c85254304a0da892f1ae63e6ac48": {
+			"source": "file://./Assets/Textures/faceMeshPiscis.png"
+		},
+		"879818c313ee415a92ebb3b10d71fc96": {
+		},
+		"8cfafbf6de4a4576a4d0f90965423e85": {
+		},
+		"8f062324679c4cc093e25f822cfd2e65": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"90d41b5f346340a99c4efeac3ea5a9bd": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"910398b935224d309796706b66066ace": {
+		},
+		"91a1801bfa2b43219bf289ac571394fe": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"94e1238090434a4a9ffeacd2f8d16151": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"994503a72dbd43c587db24c9b36ad43b": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"9b28aecc2df34d30a212fe649c150783": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"9f29866c4d5443429d1bcb5000d7aa8d": {
+		},
+		"a06697898a62412695c2ba67b827d03d": {
+		},
+		"a12fb448c1ce4293b83d66a2b553f9f0": {
+			"src": "file://./Assets/Images/ZodiacAR logo.png"
+		},
+		"a6fa79bdb0d54f9db22d703d5f984ae0": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"a82df52e6b654cefbb417ab15be22f2d": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"a8b5530c463e4f76993626085813f5bd": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"a9dc423ea106420a8157706b6a8986d7": {
+		},
+		"add644ffd3ff42dba188bccaf0122c0f": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"b2018d5592a1415abc9ca1270de117a2": {
+		},
+		"b60ccf0ffa3e4416bb8d76c8cf000ff5": {
+		},
+		"b699bca192ae41bb8957d9e8e7a0e0a3": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"b6ff047199cb42b1a998fc271d129e44": {
+		},
+		"b87b97f0c03143d4a983cae062acd597": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"babc808e504b4d34ba9cc079e958585b": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"bb5ee34023014c86b626ac58135b8e88": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"bd3759d3ae2f49c088cca893da00606f": {
+		},
+		"be05c860df5f482eaa4326c21075657f": {
+		},
+		"c034b3addda84d39951b2fe3b88c2f7e": {
+		},
+		"c6a153146ba64b4a89b73b518b8d0a06": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"c8d9f0e7583642828ef4a51336c713fa": {
+			"hue": 4,
+			"saturation": -0.1
+		},
+		"cf366c7c386d4ae48a55b9a54c03a907": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"activateAtStart": true
+		},
+		"d0a5b4c2ee1e457f9d4351bc7c97c90b": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"d0f0e3dd1c414a92a7252ceb39fbb0c4": {
+		},
+		"d12bc01a36d54cada154f06f4871a2ef": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"d361e0d8b9f44e82a421775874f6adc1": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"d46eb4fea9ab44ff82bec64f5be04182": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"d5807c6ea92c44fd95cfb5cf9111fe34": {
+			"source": "file://./Assets/Models/Animals/Fish.glb"
+		},
+		"d64ae5442bbc4eb8911c073954f1765a": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"d6575476d7b9454ea278c939dc0bd972": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"d680c67a6bc94f8ea030759b9c847ddd": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"dc55087a11004443afbef463af5cc65e": {
+		},
+		"dcec3f90b7ea457698682246420d3393": {
+		},
+		"ea2f4196123646ebaafbb17faafd9752": {
+		},
+		"ed4b9ab42a7c45db9a3ee041a1a4c19a": {
+			"loop": "Repeat",
+			"name": "Attack_Headbutt",
+			"playAtStart": true
+		},
+		"f06a0d916a874499bd9a57da0c8238bd": {
+		},
+		"f26e7c1e4abe45ce9ad0f0ce6612d281": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"f33b911eb86f44fcb7780026ce8a6154": {
+			"source": "file://./Assets/Models/Animals/Horse.glb"
+		},
+		"f5c9df8558ef4457948316828ecba09a": {
+			"blendFunction": "COLOR",
+			"hue": 5.9,
+			"saturation": 0.1
+		},
+		"f6208c0645b74f1d9ade630683948a37": {
+			"loop": "Repeat",
+			"name": "Gallop_Jump",
+			"playAtStart": true
+		},
+		"fb6c765b23ab4de792b7f083df8a29c7": {
+		},
+		"fbb8f3a6a8a64e1f8ab586d62a4a2004": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		},
+		"fc653bd251fb4a5dbc82ae460beb6f2f": {
+			"source": "file://./Assets/Models/Animals/Bull.glb"
+		},
+		"fc7e0602b6a9462eade1ef905f739907": {
+			"loop": "Repeat",
+			"name": "Armature|Swim",
+			"playAtStart": true
+		}
+	},
+	"entityPropOverrides": {
+		"componentprop:prop:root:position": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"position"
+			],
+			"id": "componentprop:prop:root:position",
+			"isConstructorProp": false,
+			"propName": "position",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:rotation": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"rotation"
+			],
+			"id": "componentprop:prop:root:rotation",
+			"isConstructorProp": false,
+			"propName": "rotation",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:scale": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"scale"
+			],
+			"id": "componentprop:prop:root:scale",
+			"isConstructorProp": false,
+			"propName": "scale",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:visible": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"visible"
+			],
+			"id": "componentprop:prop:root:visible",
+			"isConstructorProp": false,
+			"propName": "visible",
+			"type": "componentprop"
+		}
+	},
+	"entityProps": {
+		"00d78852b08940c6ac753b6e18600669": {
+		},
+		"01821e4228434a43be2b79e7e8e31f5f": {
+			"enabled": true,
+			"position": [
+				0.029570090013749203,
+				0.003969961512066078,
+				0.8489856704714519
+			],
+			"rotation": [
+				0,
+				1.5707963267948966,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"03fd979449cf4ae48011dfb74e8f6884": {
+			"opacity": 0.7,
+			"transparent": true
+		},
+		"077ba7407b4742c4984406ef5ade482f": {
+		},
+		"086bb5bffb394892a4a372758001eab7": {
+			"flipY": false
+		},
+		"0a8941008eb9483c9d03dfe415d17b5c": {
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+		},
+		"0d94e53a07f349de9e17fde1857ef85b": {
+		},
+		"0f278f0cddf64f6cb96fc1c0c3968cd0": {
+		},
+		"1147f23b862c49909fd29c78ebcbfe49": {
+			"position": [
+				-0.3082984779670476,
+				-0.19305991366013664,
+				-0.01
+			],
+			"scale": [
+				0.3268571268385281,
+				0.3268571268385281,
+				0.3268571268385281
+			]
+		},
+		"1517a9da39084068af64dc91091994c2": {
+			"enabled": true,
+			"notVisibleLayerClip": "02007d340c464b6ba3b9a8535c106fa5",
+			"visibleLayerClip": "992dcf60741c4cdca3e11f29a0ce5cda"
+		},
+		"16d1cdf4e0b94fbc81d83062b02c0dce": {
+			"enabled": true,
+			"position": [
+				-0.6782908144162794,
+				0.003969961512066078,
+				-0.514853635901581
+			],
+			"rotation": [
+				0,
+				5.839596574771054,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"1866d00a466c4b44b63eac2291b1b3b0": {
+			"enabled": false,
+			"visible": false
+		},
+		"1ae160986e6147b480fb9acc54e4943b": {
+		},
+		"1c85a16c40a14d649545f0ce4d22c339": {
+		},
+		"1dd01cb3bed74fbb9df11accdcdc650f": {
+			"anchorX": "center",
+			"anchorY": "middle",
+			"position": [
+				-0.008507155947500178,
+				-0.3658501946418401,
+				0
+			],
+			"scale": [
+				1.1379934398125462,
+				1.1379934398125462,
+				1.1379934398125462
+			],
+			"text": "Rising sign",
+			"textAlign": "center"
+		},
+		"1e5b855f6d254201b7cbf9ce252bb40e": {
+		},
+		"21ee6fa9ec434f93a2f6ca78f23bb491": {
+			"enabled": true,
+			"position": [
+				-0.3586062378992173,
+				0.003969961512066078,
+				0.7317935612606136
+			],
+			"rotation": [
+				0,
+				7.422845430159925,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"23a09c12417a45eb9c2a95adfb015502": {
+			"opacity": 0.7,
+			"transparent": true
+		},
+		"2405e087e7854f55a14a0130ca5750a1": {
+			"enabled": true,
+			"position": [
+				-0.3586062378992173,
+				0.003969961512066078,
+				0.7317935612606136
+			],
+			"rotation": [
+				0,
+				7.422845430159925,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"25257e8b78c845d6b78ef78290860131": {
+			"enabled": true,
+			"position": [
+				0,
+				2,
+				0.3182453004626883
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		},
+		"252f3d14cc4448b8a2be9c512cf8c67e": {
+			"layer": "dbfbb5080f3c42ef969ef55c382916e3"
+		},
+		"273fea67ed034368a15b5c230ea9f426": {
+		},
+		"274b5041514a4858819fe3b2c520220d": {
+		},
+		"286fab14b33644ddb348be50e70f4635": {
+			"anchorX": "center",
+			"anchorY": "middle",
+			"position": [
+				0.06277626603331599,
+				-0.33053231052203075,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scale": [
+				1.2784023635128159,
+				1.2784023635128159,
+				1.2784023635128159
+			],
+			"text": "Moon sign",
+			"textAlign": "center"
+		},
+		"2a9364dd675842be97a344f5ff4a17e2": {
+		},
+		"2cca197217ca429190fee3af460285dc": {
+			"position": [
+				-0.6770448269187918,
+				0.003969961512066078,
+				0.4652469680873497
+			],
+			"rotation": [
+				0,
+				6.775306648079712,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"300f27baf3f14b8882e35696b6058bff": {
+			"enabled": true,
+			"position": [
+				-0.6770448269187918,
+				0.003969961512066078,
+				0.4652469680873497
+			],
+			"rotation": [
+				0,
+				6.775306648079712,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"30cf602d71ea4d4b9ce3ee5d2c59b7d8": {
+			"enabled": false
+		},
+		"31a484f6566d4613bced79c163c4c1c3": {
+		},
+		"31eb399b6323496aa35f52a545bac36d": {
+			"enabled": true,
+			"position": [
+				0,
+				2,
+				0.318245300462688
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		},
+		"32271ea950074a9f97ad9283d9d42f4a": {
+			"visible": false
+		},
+		"324a5db9080d4375a3290ef7a0de921d": {
+			"anchorX": "center",
+			"anchorY": "middle",
+			"position": [
+				0,
+				-0.3151772140227508,
+				0
+			],
+			"scale": [
+				1.2550273796434945,
+				1.2550273796434945,
+				1.2550273796434945
+			],
+			"text": "Sun sign",
+			"textAlign": "center"
+		},
+		"335457661d7149ac93e025d02517eedf": {
+			"transparent": true
+		},
+		"33903b710fa54a0993c350d66d06c954": {
+		},
+		"3519292236ee421ea32be2d6e2886ccc": {
+			"position": [
+				-0.6770448269187918,
+				0.003969961512066078,
+				0.4652469680873497
+			],
+			"rotation": [
+				0,
+				6.775306648079712,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"354eca33172042ceae7961f15b2fc815": {
+			"position": [
+				-0.23506811573686273,
+				0.003969961512066078,
+				-0.8489538851050551
+			],
+			"rotation": [
+				0,
+				4.888998784890434,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"383d63a802d44dd784f2dd3ebb868685": {
+		},
+		"39853307da3740e08f6648dad108ad24": {
+		},
+		"3b94f7320cff4c4cbceebe5c735b5745": {
+			"position": [
+				0.28596192804926823,
+				-0.20404253854747784,
+				-0.01
+			],
+			"scale": [
+				0.33694363202437466,
+				0.33694363202437466,
+				0.33694363202437466
+			]
+		},
+		"3cd297a5dde94745a340d7b2a31deeef": {
+			"enabled": false
+		},
+		"3d67836574244c46a51b53b0d93aad88": {
+			"position": [
+				0.7894244998514115,
+				0.003969961512066078,
+				0.2797326686761962
+			],
+			"rotation": [
+				0,
+				2.902504731005126,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"3e09968b0f6346ad8ea905c7bcab08f7": {
+			"enabled": true,
+			"position": [
+				0.4895482379736445,
+				0.003969961512066078,
+				0.713091475280646
+			],
+			"rotation": [
+				0,
+				2.1359198532183346,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"3f81004d2c364baca896f82e6bbf70ac": {
+			"classList": [
+				"card__header"
+			],
+			"flexDirection": "row",
+			"id": "",
+			"paddingBottom": [
+				200,
+				"px"
+			],
+			"paddingLeft": [
+				30,
+				"px"
+			],
+			"paddingRight": [
+				30,
+				"px"
+			],
+			"paddingTop": [
+				30,
+				"px"
+			],
+			"position": "relative"
+		},
+		"3ffc9f82f27f4358b32029895cf2cbeb": {
+			"position": [
+				-0.002468587856520932,
+				0.45757358209780497,
+				-0.01
+			],
+			"scale": [
+				0.34881034905578895,
+				0.34881034905578895,
+				0.34881034905578895
+			]
+		},
+		"43c15e5eb4934b85a13c4db385804408": {
+		},
+		"45201c0d930a48299631d8cccc392cf8": {
+			"enabled": true,
+			"position": [
+				-0.7866224122135362,
+				0.003969961512066078,
+				0.005857928710259974
+			],
+			"rotation": [
+				0,
+				6.361235270801754,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"45cc5cf8832c4c1bb0bb679e1a03d95f": {
+			"scale": [
+				0.48577156327275633,
+				0.48577156327275633,
+				0.48577156327275633
+			]
+		},
+		"4d1083f7500a4d9d9045e66ced068df7": {
+			"position": [
+				0.4895482379736445,
+				0.003969961512066078,
+				0.713091475280646
+			],
+			"rotation": [
+				0,
+				2.1359198532183346,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"4d24a5d3c184439aaa1232d41e2d95d0": {
+			"position": [
+				-0.7866224122135362,
+				0.003969961512066078,
+				0.005857928710259974
+			],
+			"rotation": [
+				0,
+				6.361235270801754,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"4d30bb635dac4c7fa060cede25a10bbc": {
+			"transparent": true
+		},
+		"5126148a9946464bb3c530ffa95ae665": {
+		},
+		"5142cc2ca99e4b1997ca8aa79e6e650f": {
+			"position": [
+				0.3086017378371904,
+				0.003969961512066078,
+				-0.8523137167752474
+			],
+			"rotation": [
+				0,
+				4.26127862783681,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"52148d8eafe3426085e700e049662c07": {
+		},
+		"55d475026441409686a7cc24a443a603": {
+			"flipY": false
+		},
+		"5b462d9d143d482eba10bc3820a3f41d": {
+		},
+		"5c496e8a4f7347a694eed97a9320010a": {
+		},
+		"6304869389a54333a6e313a28118f59d": {
+		},
+		"658fc07e48c648a7b0eaffbb7ff2bad3": {
+			"position": [
+				0.7776365804020346,
+				0.003969961512066078,
+				-0.4096637660832293
+			],
+			"rotation": [
+				0,
+				3.3494441888535866,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"692b3785603c42d392f0f9f4f5d7d493": {
+			"enabled": true
+		},
+		"714bc9e134c74883a23c8a172f35a5ce": {
+			"position": [
+				0,
+				2,
+				0.318245300462688
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		},
+		"71822a75b4b04c8899c368fe95913fc0": {
+		},
+		"7a5cac26a35e4daaae56dff87221bf11": {
+			"enabled": true,
+			"position": [
+				0.7776365804020346,
+				0.003969961512066078,
+				-0.4096637660832293
+			],
+			"rotation": [
+				0,
+				3.3494441888535866,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"7afd2d957d1e4895b8ec7943cbc6b15f": {
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+		},
+		"7cbdcfa6d3e84c51ae25191b51dede49": {
+		},
+		"852c3b84d2af4c70b87ce6173ee40164": {
+			"enabled": true
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+			"castShadow": true,
+			"position": [
+				0,
+				3.822578351542651,
+				0
+			]
+		},
+		"85d9c03d60c442b88dab2d1b353bc24c": {
+		},
+		"86a3c85254304a0da892f1ae63e6ac48": {
+			"flipY": false
+		},
+		"879818c313ee415a92ebb3b10d71fc96": {
+		},
+		"8cfafbf6de4a4576a4d0f90965423e85": {
+		},
+		"8f062324679c4cc093e25f822cfd2e65": {
+		},
+		"90d41b5f346340a99c4efeac3ea5a9bd": {
+			"position": [
+				-0.6782908144162794,
+				0.003969961512066078,
+				-0.514853635901581
+			],
+			"rotation": [
+				0,
+				5.839596574771054,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"910398b935224d309796706b66066ace": {
+			"enabled": false
+		},
+		"91a1801bfa2b43219bf289ac571394fe": {
+			"enabled": true,
+			"position": [
+				-0.23506811573686273,
+				0.003969961512066078,
+				-0.8489538851050551
+			],
+			"rotation": [
+				0,
+				4.888998784890434,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"94e1238090434a4a9ffeacd2f8d16151": {
+			"position": [
+				-0.6782908144162794,
+				0.003969961512066078,
+				-0.514853635901581
+			],
+			"rotation": [
+				0,
+				5.839596574771054,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"994503a72dbd43c587db24c9b36ad43b": {
+			"position": [
+				0.029570090013749203,
+				0.003969961512066078,
+				0.8489856704714519
+			],
+			"rotation": [
+				0,
+				1.5707963267948966,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"9b28aecc2df34d30a212fe649c150783": {
+			"position": [
+				0.7894244998514115,
+				0.003969961512066078,
+				0.2797326686761962
+			],
+			"rotation": [
+				0,
+				2.902504731005126,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"9f29866c4d5443429d1bcb5000d7aa8d": {
+			"classList": [
+				"card__subtitle"
+			],
+			"innerText": "We have found your sun sign, moon sign and rising sign. Slide the indicator to see your personal filters.",
+			"position": "relative"
+		},
+		"a06697898a62412695c2ba67b827d03d": {
+		},
+		"a12fb448c1ce4293b83d66a2b553f9f0": {
+			"innerText": "",
+			"left": [
+				75,
+				"px"
+			],
+			"marginTop": [
+				40,
+				"px"
+			],
+			"position": "fixed",
+			"width": [
+				150,
+				"px"
+			]
+		},
+		"a6fa79bdb0d54f9db22d703d5f984ae0": {
+		},
+		"a82df52e6b654cefbb417ab15be22f2d": {
+		},
+		"a8b5530c463e4f76993626085813f5bd": {
+			"position": [
+				0.4895482379736445,
+				0.003969961512066078,
+				0.713091475280646
+			],
+			"rotation": [
+				0,
+				2.1359198532183346,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"a9dc423ea106420a8157706b6a8986d7": {
+			"opacity": 1
+		},
+		"add644ffd3ff42dba188bccaf0122c0f": {
+		},
+		"b2018d5592a1415abc9ca1270de117a2": {
+			"enabled": true
+		},
+		"b60ccf0ffa3e4416bb8d76c8cf000ff5": {
+			"enabled": false,
+			"visible": false
+		},
+		"b699bca192ae41bb8957d9e8e7a0e0a3": {
+			"position": [
+				-0.3586062378992173,
+				0.003969961512066078,
+				0.7317935612606136
+			],
+			"rotation": [
+				0,
+				7.422845430159925,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"b6ff047199cb42b1a998fc271d129e44": {
+			"classList": [
+				"button"
+			],
+			"height": [
+				50,
+				"px"
+			],
+			"id": "",
+			"innerText": "CLOSE",
+			"left": [
+				17,
+				"%"
+			],
+			"marginBottom": [
+				20,
+				"px"
+			],
+			"marginTop": [
+				20,
+				"px"
+			],
+			"paddingBottom": [
+				5,
+				"px"
+			],
+			"paddingLeft": [
+				10,
+				"px"
+			],
+			"paddingRight": [
+				10,
+				"px"
+			],
+			"paddingTop": [
+				5,
+				"px"
+			],
+			"position": "relative",
+			"width": [
+				200,
+				"px"
+			]
+		},
+		"b87b97f0c03143d4a983cae062acd597": {
+		},
+		"babc808e504b4d34ba9cc079e958585b": {
+		},
+		"bb5ee34023014c86b626ac58135b8e88": {
+		},
+		"bd3759d3ae2f49c088cca893da00606f": {
+			"opacity": 0.8,
+			"transparent": true
+		},
+		"be05c860df5f482eaa4326c21075657f": {
+			"enabled": true,
+			"visible": false
+		},
+		"c034b3addda84d39951b2fe3b88c2f7e": {
+			"transparent": true
+		},
+		"c6a153146ba64b4a89b73b518b8d0a06": {
+			"position": [
+				-0.23506811573686273,
+				0.003969961512066078,
+				-0.8489538851050551
+			],
+			"rotation": [
+				0,
+				4.888998784890434,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"c8d9f0e7583642828ef4a51336c713fa": {
+		},
+		"cf366c7c386d4ae48a55b9a54c03a907": {
+			"enabled": true,
+			"position": [
+				0.7894244998514115,
+				0.003969961512066078,
+				0.2797326686761962
+			],
+			"rotation": [
+				0,
+				2.902504731005126,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"cameraDirection": "user",
+			"poseMode": "attitude"
+		},
+		"d0a5b4c2ee1e457f9d4351bc7c97c90b": {
+		},
+		"d0f0e3dd1c414a92a7252ceb39fbb0c4": {
+			"classList": [
+				"card_footer"
+			],
+			"marginBottom": [
+				-1,
+				"px"
+			],
+			"position": "static"
+		},
+		"d12bc01a36d54cada154f06f4871a2ef": {
+		},
+		"d361e0d8b9f44e82a421775874f6adc1": {
+		},
+		"d46eb4fea9ab44ff82bec64f5be04182": {
+		},
+		"d5807c6ea92c44fd95cfb5cf9111fe34": {
+			"enabled": true,
+			"position": [
+				0.3086017378371904,
+				0.003969961512066078,
+				-0.8523137167752474
+			],
+			"rotation": [
+				0,
+				4.26127862783681,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"d64ae5442bbc4eb8911c073954f1765a": {
+			"position": [
+				0.3086017378371904,
+				0.003969961512066078,
+				-0.8523137167752474
+			],
+			"rotation": [
+				0,
+				4.26127862783681,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"d6575476d7b9454ea278c939dc0bd972": {
+		},
+		"d680c67a6bc94f8ea030759b9c847ddd": {
+			"position": [
+				0.7776365804020346,
+				0.003969961512066078,
+				-0.4096637660832293
+			],
+			"rotation": [
+				0,
+				3.3494441888535866,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"dc55087a11004443afbef463af5cc65e": {
+			"showHelpText": true,
+			"visible": true
+		},
+		"dcec3f90b7ea457698682246420d3393": {
+			"opacity": 0.7,
+			"transparent": true
+		},
+		"ea2f4196123646ebaafbb17faafd9752": {
+			"classList": [
+				"card"
+			],
+			"flexDirection": "row",
+			"position": "static",
+			"width": [
+				300,
+				"px"
+			]
+		},
+		"ed4b9ab42a7c45db9a3ee041a1a4c19a": {
+		},
+		"f06a0d916a874499bd9a57da0c8238bd": {
+		},
+		"f26e7c1e4abe45ce9ad0f0ce6612d281": {
+		},
+		"f33b911eb86f44fcb7780026ce8a6154": {
+			"position": [
+				-0.7866224122135362,
+				0.003969961512066078,
+				0.005857928710259974
+			],
+			"rotation": [
+				0,
+				6.361235270801754,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"f5c9df8558ef4457948316828ecba09a": {
+		},
+		"f6208c0645b74f1d9ade630683948a37": {
+		},
+		"fb6c765b23ab4de792b7f083df8a29c7": {
+			"classList": [
+				"card__title "
+			],
+			"innerText": "Zodiac AR"
+		},
+		"fbb8f3a6a8a64e1f8ab586d62a4a2004": {
+		},
+		"fc653bd251fb4a5dbc82ae460beb6f2f": {
+			"position": [
+				0.029570090013749203,
+				0.003969961512066078,
+				0.8489856704714519
+			],
+			"rotation": [
+				0,
+				1.5707963267948966,
+				0
+			],
+			"scale": [
+				0.05,
+				0.05,
+				0.05
+			]
+		},
+		"fc7e0602b6a9462eade1ef905f739907": {
+		},
+		"root": {
+			"position": [
+				-1.7761028621592283,
+				0,
+				0
+			]
+		}
+	},
+	"id": "5d4513e843574c04847bf1474912090f",
+	"nodes": {
+		"00d78852b08940c6ac753b6e18600669": {
+			"id": "00d78852b08940c6ac753b6e18600669",
+			"label": "CameraTransform",
+			"parent": {
+				"id": "root",
+				"order": "a2"
+			},
+			"scriptName": "CameraTransform",
+			"type": "@zcomponent/three/lib/components/transforms/CameraTransform#CameraTransform"
+		},
+		"01821e4228434a43be2b79e7e8e31f5f": {
+			"id": "01821e4228434a43be2b79e7e8e31f5f",
+			"label": "Fish.glb 2",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a2"
+			},
+			"scriptName": "Fish_glb0",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"03fd979449cf4ae48011dfb74e8f6884": {
+			"id": "03fd979449cf4ae48011dfb74e8f6884",
+			"label": "SunIndicator Material",
+			"parent": {
+				"id": "3ffc9f82f27f4358b32029895cf2cbeb",
+				"order": "a0"
+			},
+			"scriptName": "SunIndicator_Material",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"077ba7407b4742c4984406ef5ade482f": {
+			"id": "077ba7407b4742c4984406ef5ade482f",
+			"label": "CSS",
+			"parent": {
+				"id": "32271ea950074a9f97ad9283d9d42f4a",
+				"order": "Zy"
+			},
+			"scriptName": "CSS",
+			"type": "@zcomponent/html/lib/CSS#CSS"
+		},
+		"086bb5bffb394892a4a372758001eab7": {
+			"id": "086bb5bffb394892a4a372758001eab7",
+			"label": "Taurus Face Mesh Texture",
+			"parent": {
+				"id": "4d30bb635dac4c7fa060cede25a10bbc",
+				"order": "a0"
+			},
+			"scriptName": "Taurus_FaceMeshTexture",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"0a8941008eb9483c9d03dfe415d17b5c": {
+			"id": "0a8941008eb9483c9d03dfe415d17b5c",
+			"label": "Sun-symbol.png",
+			"parent": {
+				"id": "03fd979449cf4ae48011dfb74e8f6884",
+				"order": "a0"
+			},
+			"scriptName": "Sun_symbol_png",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+			"id": "0ba8e27369df45ca897731dcb1e39bcf",
+			"label": "DefaultCookieConsent",
+			"parent": {
+				"id": "7b6fb4d895774174b5d151eec86b704c",
+				"order": "a4"
+			},
+			"scriptName": "DefaultCookieConsent",
+			"type": "@zcomponent/core/lib/components/DefaultCookieConsent#DefaultCookieConsent"
+		},
+		"0d94e53a07f349de9e17fde1857ef85b": {
+			"id": "0d94e53a07f349de9e17fde1857ef85b",
+			"label": "Sagittarius HueSaturationEffectPass",
+			"parent": {
+				"id": "3cd297a5dde94745a340d7b2a31deeef",
+				"order": "Zz"
+			},
+			"scriptName": "Sagittarius_HueSaturationEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/HueSaturationEffect#HueSaturationEffectPass"
+		},
+		"1147f23b862c49909fd29c78ebcbfe49": {
+			"id": "1147f23b862c49909fd29c78ebcbfe49",
+			"label": "RisingIndicator",
+			"parent": {
+				"id": "00d78852b08940c6ac753b6e18600669",
+				"order": "a1"
+			},
+			"scriptName": "RisingIndicator",
+			"type": "@zcomponent/three/lib/components/meshes/Plane#Plane"
+		},
+		"1517a9da39084068af64dc91091994c2": {
+			"id": "1517a9da39084068af64dc91091994c2",
+			"label": "FaceAnchorGroup",
+			"parent": {
+				"id": "852c3b84d2af4c70b87ce6173ee40164",
+				"order": "a0"
+			},
+			"scriptName": "FaceAnchorGroup",
+			"type": "@zcomponent/zappar-three/lib/components/anchorgroups/FaceAnchorGroup#FaceAnchorGroup"
+		},
+		"16d1cdf4e0b94fbc81d83062b02c0dce": {
+			"id": "16d1cdf4e0b94fbc81d83062b02c0dce",
+			"label": "Fish.glb 8",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a102"
+			},
+			"scriptName": "Fish_glb6",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"1866d00a466c4b44b63eac2291b1b3b0": {
+			"id": "1866d00a466c4b44b63eac2291b1b3b0",
+			"label": "Taurus",
+			"parent": {
+				"id": "1517a9da39084068af64dc91091994c2",
+				"order": "a3"
+			},
+			"scriptName": "Taurus",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"1ae160986e6147b480fb9acc54e4943b": {
+			"id": "1ae160986e6147b480fb9acc54e4943b",
+			"label": "ZodiacAR_logo_white.png",
+			"parent": {
+				"id": "bd3759d3ae2f49c088cca893da00606f",
+				"order": "a0"
+			},
+			"scriptName": "ZodiacAR_logo_white_png",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"1dd01cb3bed74fbb9df11accdcdc650f": {
+			"id": "1dd01cb3bed74fbb9df11accdcdc650f",
+			"label": "Rising Text",
+			"parent": {
+				"id": "1147f23b862c49909fd29c78ebcbfe49",
+				"order": "Zz"
+			},
+			"scriptName": "Rising_Text",
+			"type": "@zcomponent/three/lib/components/text/Text#Text"
+		},
+		"1e5b855f6d254201b7cbf9ce252bb40e": {
+			"id": "1e5b855f6d254201b7cbf9ce252bb40e",
+			"label": "Taurus FaceMesh",
+			"parent": {
+				"id": "1866d00a466c4b44b63eac2291b1b3b0",
+				"order": "Zz"
+			},
+			"scriptName": "Taurus_FaceMesh",
+			"type": "@zcomponent/zappar-three/lib/components/meshes/FaceMesh#FaceMesh"
+		},
+		"21ee6fa9ec434f93a2f6ca78f23bb491": {
+			"id": "21ee6fa9ec434f93a2f6ca78f23bb491",
+			"label": "Fish.glb",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a1"
+			},
+			"scriptName": "Fish_glb",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"23a09c12417a45eb9c2a95adfb015502": {
+			"id": "23a09c12417a45eb9c2a95adfb015502",
+			"label": "RisingIndicator Material",
+			"parent": {
+				"id": "1147f23b862c49909fd29c78ebcbfe49",
+				"order": "a0"
+			},
+			"scriptName": "RisingIndicator_Material",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"2405e087e7854f55a14a0130ca5750a1": {
+			"id": "2405e087e7854f55a14a0130ca5750a1",
+			"label": "Horse 1",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a1"
+			},
+			"scriptName": "Horse_1",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"25257e8b78c845d6b78ef78290860131": {
+			"id": "25257e8b78c845d6b78ef78290860131",
+			"label": "Sagittarius Animals",
+			"parent": {
+				"id": "b60ccf0ffa3e4416bb8d76c8cf000ff5",
+				"order": "a0"
+			},
+			"scriptName": "Sagittarius_Animals",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"273fea67ed034368a15b5c230ea9f426": {
+			"id": "273fea67ed034368a15b5c230ea9f426",
+			"label": "Sagittarius FaceMesh",
+			"parent": {
+				"id": "b60ccf0ffa3e4416bb8d76c8cf000ff5",
+				"order": "Zz"
+			},
+			"scriptName": "Sagittarius_FaceMesh",
+			"type": "@zcomponent/zappar-three/lib/components/meshes/FaceMesh#FaceMesh"
+		},
+		"286fab14b33644ddb348be50e70f4635": {
+			"id": "286fab14b33644ddb348be50e70f4635",
+			"label": "Moon Text",
+			"parent": {
+				"id": "3b94f7320cff4c4cbceebe5c735b5745",
+				"order": "Zz"
+			},
+			"scriptName": "Moon_Text",
+			"type": "@zcomponent/three/lib/components/text/Text#Text"
+		},
+		"2a9364dd675842be97a344f5ff4a17e2": {
+			"id": "2a9364dd675842be97a344f5ff4a17e2",
+			"label": "Moon-symbol.png",
+			"parent": {
+				"id": "dcec3f90b7ea457698682246420d3393",
+				"order": "a0"
+			},
+			"scriptName": "Moon_symbol_png",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"2cca197217ca429190fee3af460285dc": {
+			"id": "2cca197217ca429190fee3af460285dc",
+			"label": "Bull 2",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a1008"
+			},
+			"scriptName": "Bull_2",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"300f27baf3f14b8882e35696b6058bff": {
+			"id": "300f27baf3f14b8882e35696b6058bff",
+			"label": "Fish.glb 10",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a1008"
+			},
+			"scriptName": "Fish_glb8",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"30cf602d71ea4d4b9ce3ee5d2c59b7d8": {
+			"id": "30cf602d71ea4d4b9ce3ee5d2c59b7d8",
+			"label": "Taurus",
+			"parent": {
+				"id": "692b3785603c42d392f0f9f4f5d7d493",
+				"order": "a1"
+			},
+			"scriptName": "Taurus0",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"31eb399b6323496aa35f52a545bac36d": {
+			"id": "31eb399b6323496aa35f52a545bac36d",
+			"label": "Piscis Animals",
+			"parent": {
+				"id": "be05c860df5f482eaa4326c21075657f",
+				"order": "a0"
+			},
+			"scriptName": "Piscis_Animals",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"32271ea950074a9f97ad9283d9d42f4a": {
+			"id": "32271ea950074a9f97ad9283d9d42f4a",
+			"label": "HTML",
+			"parent": {
+				"id": "root",
+				"order": "a3"
+			},
+			"scriptName": "HTML",
+			"type": "@zcomponent/three/lib/components/HTML#HTML"
+		},
+		"324a5db9080d4375a3290ef7a0de921d": {
+			"id": "324a5db9080d4375a3290ef7a0de921d",
+			"label": "Sun Text",
+			"parent": {
+				"id": "3ffc9f82f27f4358b32029895cf2cbeb",
+				"order": "Zz"
+			},
+			"scriptName": "Sun_Text",
+			"type": "@zcomponent/three/lib/components/text/Text#Text"
+		},
+		"335457661d7149ac93e025d02517eedf": {
+			"id": "335457661d7149ac93e025d02517eedf",
+			"label": "Sagittarius Standard Material",
+			"parent": {
+				"id": "273fea67ed034368a15b5c230ea9f426",
+				"order": "a0"
+			},
+			"scriptName": "Sagittarius_StandardMaterial",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"3519292236ee421ea32be2d6e2886ccc": {
+			"id": "3519292236ee421ea32be2d6e2886ccc",
+			"label": "Horse 2",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a1008"
+			},
+			"scriptName": "Horse_2",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"354eca33172042ceae7961f15b2fc815": {
+			"id": "354eca33172042ceae7961f15b2fc815",
+			"label": "Horse 5",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a104"
+			},
+			"scriptName": "Horse_5",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"3b94f7320cff4c4cbceebe5c735b5745": {
+			"id": "3b94f7320cff4c4cbceebe5c735b5745",
+			"label": "MoonIndicator",
+			"parent": {
+				"id": "00d78852b08940c6ac753b6e18600669",
+				"order": "a1V"
+			},
+			"scriptName": "MoonIndicator",
+			"type": "@zcomponent/three/lib/components/meshes/Plane#Plane"
+		},
+		"3cd297a5dde94745a340d7b2a31deeef": {
+			"id": "3cd297a5dde94745a340d7b2a31deeef",
+			"label": "Sagittarius",
+			"parent": {
+				"id": "692b3785603c42d392f0f9f4f5d7d493",
+				"order": "a2"
+			},
+			"scriptName": "Sagittarius0",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"3d67836574244c46a51b53b0d93aad88": {
+			"id": "3d67836574244c46a51b53b0d93aad88",
+			"label": "Horse 8",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a14"
+			},
+			"scriptName": "Horse_8",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"3e09968b0f6346ad8ea905c7bcab08f7": {
+			"id": "3e09968b0f6346ad8ea905c7bcab08f7",
+			"label": "Fish.glb 3",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a1G"
+			},
+			"scriptName": "Fish_glb1",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"3f81004d2c364baca896f82e6bbf70ac": {
+			"id": "3f81004d2c364baca896f82e6bbf70ac",
+			"label": "Card Header",
+			"parent": {
+				"id": "ea2f4196123646ebaafbb17faafd9752",
+				"order": "a0"
+			},
+			"scriptName": "Card_Header",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"3ffc9f82f27f4358b32029895cf2cbeb": {
+			"id": "3ffc9f82f27f4358b32029895cf2cbeb",
+			"label": "SunIndicator",
+			"parent": {
+				"id": "00d78852b08940c6ac753b6e18600669",
+				"order": "a1l"
+			},
+			"scriptName": "SunIndicator",
+			"type": "@zcomponent/three/lib/components/meshes/Plane#Plane"
+		},
+		"45201c0d930a48299631d8cccc392cf8": {
+			"id": "45201c0d930a48299631d8cccc392cf8",
+			"label": "Fish.glb 9",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a100V"
+			},
+			"scriptName": "Fish_glb7",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"45cc5cf8832c4c1bb0bb679e1a03d95f": {
+			"id": "45cc5cf8832c4c1bb0bb679e1a03d95f",
+			"label": "TouchIndicator",
+			"parent": {
+				"id": "00d78852b08940c6ac753b6e18600669",
+				"order": "a0"
+			},
+			"scriptName": "TouchIndicator",
+			"type": "@zcomponent/three/lib/components/meshes/Plane#Plane"
+		},
+		"4d1083f7500a4d9d9045e66ced068df7": {
+			"id": "4d1083f7500a4d9d9045e66ced068df7",
+			"label": "Bull 9",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a1G"
+			},
+			"scriptName": "Bull_9",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"4d24a5d3c184439aaa1232d41e2d95d0": {
+			"id": "4d24a5d3c184439aaa1232d41e2d95d0",
+			"label": "Bull 3",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a100V"
+			},
+			"scriptName": "Bull_3",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"4d30bb635dac4c7fa060cede25a10bbc": {
+			"id": "4d30bb635dac4c7fa060cede25a10bbc",
+			"label": "Taurus Standard Material",
+			"parent": {
+				"id": "1e5b855f6d254201b7cbf9ce252bb40e",
+				"order": "a0"
+			},
+			"scriptName": "Taurus_StandardMaterial",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"5142cc2ca99e4b1997ca8aa79e6e650f": {
+			"id": "5142cc2ca99e4b1997ca8aa79e6e650f",
+			"label": "Horse 6",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a10G"
+			},
+			"scriptName": "Horse_6",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"52148d8eafe3426085e700e049662c07": {
+			"id": "52148d8eafe3426085e700e049662c07",
+			"label": "DefaultLoader",
+			"parent": {
+				"id": "7b6fb4d895774174b5d151eec86b704c",
+				"order": "Zp"
+			},
+			"scriptName": "DefaultLoader",
+			"type": "@zcomponent/core/lib/components/DefaultLoader#DefaultLoader"
+		},
+		"55d475026441409686a7cc24a443a603": {
+			"id": "55d475026441409686a7cc24a443a603",
+			"label": "Sagittarius Face Mesh Texture",
+			"parent": {
+				"id": "335457661d7149ac93e025d02517eedf",
+				"order": "a0"
+			},
+			"scriptName": "Sagittarius_FaceMeshTexture",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"5b462d9d143d482eba10bc3820a3f41d": {
+			"id": "5b462d9d143d482eba10bc3820a3f41d",
+			"label": "Sagittarius VignetteEffectPass",
+			"parent": {
+				"id": "3cd297a5dde94745a340d7b2a31deeef",
+				"order": "a0"
+			},
+			"scriptName": "Sagittarius_VignetteEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/VignetteEffect#VignetteEffectPass"
+		},
+		"6304869389a54333a6e313a28118f59d": {
+			"id": "6304869389a54333a6e313a28118f59d",
+			"label": "Rising-symbol.png",
+			"parent": {
+				"id": "23a09c12417a45eb9c2a95adfb015502",
+				"order": "a0"
+			},
+			"scriptName": "Rising_symbol_png",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"658fc07e48c648a7b0eaffbb7ff2bad3": {
+			"id": "658fc07e48c648a7b0eaffbb7ff2bad3",
+			"label": "Horse 7",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a11"
+			},
+			"scriptName": "Horse_7",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"692b3785603c42d392f0f9f4f5d7d493": {
+			"id": "692b3785603c42d392f0f9f4f5d7d493",
+			"label": "Post processing",
+			"parent": {
+				"id": "root",
+				"order": "a1"
+			},
+			"scriptName": "Post_processing",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"714bc9e134c74883a23c8a172f35a5ce": {
+			"id": "714bc9e134c74883a23c8a172f35a5ce",
+			"label": "Taurus Animals",
+			"parent": {
+				"id": "1866d00a466c4b44b63eac2291b1b3b0",
+				"order": "a0"
+			},
+			"scriptName": "Taurus_Animals",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"7a5cac26a35e4daaae56dff87221bf11": {
+			"id": "7a5cac26a35e4daaae56dff87221bf11",
+			"label": "Fish.glb 5",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a11"
+			},
+			"scriptName": "Fish_glb3",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+			"id": "7b6fb4d895774174b5d151eec86b704c",
+			"label": "Defaults",
+			"parent": {
+				"id": "root",
+				"order": "a0"
+			},
+			"scriptName": "Defaults",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"852c3b84d2af4c70b87ce6173ee40164": {
+			"id": "852c3b84d2af4c70b87ce6173ee40164",
+			"label": "FaceTracker",
+			"parent": {
+				"id": "root",
+				"order": "Zz"
+			},
+			"scriptName": "FaceTracker",
+			"type": "@zcomponent/zappar-three/lib/components/trackers/FaceTracker#FaceTracker"
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+			"id": "857f9901b65b42c89a3ff04470d70738",
+			"label": "DirectionalLight",
+			"parent": {
+				"id": "7b6fb4d895774174b5d151eec86b704c",
+				"order": "Zq"
+			},
+			"scriptName": "DirectionalLight",
+			"type": "@zcomponent/three/lib/components/lights/DirectionalLight#DirectionalLight"
+		},
+		"86a3c85254304a0da892f1ae63e6ac48": {
+			"id": "86a3c85254304a0da892f1ae63e6ac48",
+			"label": "Pisicis Face Mesh Texture",
+			"parent": {
+				"id": "c034b3addda84d39951b2fe3b88c2f7e",
+				"order": "a0"
+			},
+			"scriptName": "Pisicis_FaceMeshTexture",
+			"type": "@zcomponent/three/lib/components/textures/ImageTexture#ImageTexture"
+		},
+		"879818c313ee415a92ebb3b10d71fc96": {
+			"id": "879818c313ee415a92ebb3b10d71fc96",
+			"label": "Pisicis FaceMesh",
+			"parent": {
+				"id": "be05c860df5f482eaa4326c21075657f",
+				"order": "Zz"
+			},
+			"scriptName": "Pisicis_FaceMesh",
+			"type": "@zcomponent/zappar-three/lib/components/meshes/FaceMesh#FaceMesh"
+		},
+		"8cfafbf6de4a4576a4d0f90965423e85": {
+			"id": "8cfafbf6de4a4576a4d0f90965423e85",
+			"label": "CameraEnvironmentMap",
+			"parent": {
+				"id": "root",
+				"order": "ZyV"
+			},
+			"scriptName": "CameraEnvironmentMap",
+			"type": "@zcomponent/zappar-three/lib/components/environments/CameraEnvironmentMap#CameraEnvironmentMap"
+		},
+		"90d41b5f346340a99c4efeac3ea5a9bd": {
+			"id": "90d41b5f346340a99c4efeac3ea5a9bd",
+			"label": "Bull 4",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a102"
+			},
+			"scriptName": "Bull_4",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"910398b935224d309796706b66066ace": {
+			"id": "910398b935224d309796706b66066ace",
+			"label": "Piscis",
+			"parent": {
+				"id": "692b3785603c42d392f0f9f4f5d7d493",
+				"order": "a0"
+			},
+			"scriptName": "Piscis0",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"91a1801bfa2b43219bf289ac571394fe": {
+			"id": "91a1801bfa2b43219bf289ac571394fe",
+			"label": "Fish.glb 7",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a104"
+			},
+			"scriptName": "Fish_glb5",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"94e1238090434a4a9ffeacd2f8d16151": {
+			"id": "94e1238090434a4a9ffeacd2f8d16151",
+			"label": "Horse 4",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a102"
+			},
+			"scriptName": "Horse_4",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"994503a72dbd43c587db24c9b36ad43b": {
+			"id": "994503a72dbd43c587db24c9b36ad43b",
+			"label": "Horse 10",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a2"
+			},
+			"scriptName": "Horse_10",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"9b28aecc2df34d30a212fe649c150783": {
+			"id": "9b28aecc2df34d30a212fe649c150783",
+			"label": "Bull 8",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a14"
+			},
+			"scriptName": "Bull_8",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"9f29866c4d5443429d1bcb5000d7aa8d": {
+			"id": "9f29866c4d5443429d1bcb5000d7aa8d",
+			"label": "Paragraph",
+			"parent": {
+				"id": "3f81004d2c364baca896f82e6bbf70ac",
+				"order": "a5"
+			},
+			"scriptName": "Paragraph",
+			"type": "@zcomponent/html/lib/span#Span"
+		},
+		"a06697898a62412695c2ba67b827d03d": {
+			"id": "a06697898a62412695c2ba67b827d03d",
+			"label": "Taurus VignetteEffectPass",
+			"parent": {
+				"id": "30cf602d71ea4d4b9ce3ee5d2c59b7d8",
+				"order": "Zz"
+			},
+			"scriptName": "Taurus_VignetteEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/VignetteEffect#VignetteEffectPass"
+		},
+		"a12fb448c1ce4293b83d66a2b553f9f0": {
+			"id": "a12fb448c1ce4293b83d66a2b553f9f0",
+			"label": "Shape Image",
+			"parent": {
+				"id": "3f81004d2c364baca896f82e6bbf70ac",
+				"order": "a6"
+			},
+			"scriptName": "Shape_Image",
+			"type": "@zcomponent/html/lib/img#Img"
+		},
+		"a8b5530c463e4f76993626085813f5bd": {
+			"id": "a8b5530c463e4f76993626085813f5bd",
+			"label": "Horse 9",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a1G"
+			},
+			"scriptName": "Horse_9",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"b2018d5592a1415abc9ca1270de117a2": {
+			"id": "b2018d5592a1415abc9ca1270de117a2",
+			"label": "HeadMaskMesh",
+			"parent": {
+				"id": "1517a9da39084068af64dc91091994c2",
+				"order": "a0"
+			},
+			"scriptName": "HeadMaskMesh",
+			"type": "@zcomponent/zappar-three/lib/components/meshes/HeadMaskMesh#HeadMaskMesh"
+		},
+		"b60ccf0ffa3e4416bb8d76c8cf000ff5": {
+			"id": "b60ccf0ffa3e4416bb8d76c8cf000ff5",
+			"label": "Sagittarius",
+			"parent": {
+				"id": "1517a9da39084068af64dc91091994c2",
+				"order": "a3V"
+			},
+			"scriptName": "Sagittarius",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"b699bca192ae41bb8957d9e8e7a0e0a3": {
+			"id": "b699bca192ae41bb8957d9e8e7a0e0a3",
+			"label": "Bull 1",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a1"
+			},
+			"scriptName": "Bull_1",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"b6ff047199cb42b1a998fc271d129e44": {
+			"id": "b6ff047199cb42b1a998fc271d129e44",
+			"label": "Button",
+			"parent": {
+				"id": "d0f0e3dd1c414a92a7252ceb39fbb0c4",
+				"order": "a1"
+			},
+			"scriptName": "Button",
+			"type": "@zcomponent/html/lib/button#Button"
+		},
+		"bd3759d3ae2f49c088cca893da00606f": {
+			"id": "bd3759d3ae2f49c088cca893da00606f",
+			"label": "TouchIndicator Material",
+			"parent": {
+				"id": "45cc5cf8832c4c1bb0bb679e1a03d95f",
+				"order": "a0"
+			},
+			"scriptName": "TouchIndicator_Material",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"be05c860df5f482eaa4326c21075657f": {
+			"id": "be05c860df5f482eaa4326c21075657f",
+			"label": "Piscis",
+			"parent": {
+				"id": "1517a9da39084068af64dc91091994c2",
+				"order": "a2"
+			},
+			"scriptName": "Piscis",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"c034b3addda84d39951b2fe3b88c2f7e": {
+			"id": "c034b3addda84d39951b2fe3b88c2f7e",
+			"label": "Pisicis Standard Material",
+			"parent": {
+				"id": "879818c313ee415a92ebb3b10d71fc96",
+				"order": "a0"
+			},
+			"scriptName": "Pisicis_StandardMaterial",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"c6a153146ba64b4a89b73b518b8d0a06": {
+			"id": "c6a153146ba64b4a89b73b518b8d0a06",
+			"label": "Bull 5",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a104"
+			},
+			"scriptName": "Bull_5",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"c8d9f0e7583642828ef4a51336c713fa": {
+			"id": "c8d9f0e7583642828ef4a51336c713fa",
+			"label": "Pisicis HueSaturationEffectPass",
+			"parent": {
+				"id": "910398b935224d309796706b66066ace",
+				"order": "Zz"
+			},
+			"scriptName": "Pisicis_HueSaturationEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/HueSaturationEffect#HueSaturationEffectPass"
+		},
+		"cf366c7c386d4ae48a55b9a54c03a907": {
+			"id": "cf366c7c386d4ae48a55b9a54c03a907",
+			"label": "Fish.glb 4",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a14"
+			},
+			"scriptName": "Fish_glb2",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"id": "d056c264c3d345908a1345aeb612ed9d",
+			"label": "ZapparCamera",
+			"parent": {
+				"id": "root",
+				"order": "Zy"
+			},
+			"scriptName": "ZapparCamera",
+			"type": "@zcomponent/zappar-three/lib/components/cameras/Camera#ZapparCamera"
+		},
+		"d0f0e3dd1c414a92a7252ceb39fbb0c4": {
+			"id": "d0f0e3dd1c414a92a7252ceb39fbb0c4",
+			"label": "Card Footer",
+			"parent": {
+				"id": "ea2f4196123646ebaafbb17faafd9752",
+				"order": "a1"
+			},
+			"scriptName": "Card_Footer",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"d5807c6ea92c44fd95cfb5cf9111fe34": {
+			"id": "d5807c6ea92c44fd95cfb5cf9111fe34",
+			"label": "Fish.glb 6",
+			"parent": {
+				"id": "31eb399b6323496aa35f52a545bac36d",
+				"order": "a10G"
+			},
+			"scriptName": "Fish_glb4",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"d64ae5442bbc4eb8911c073954f1765a": {
+			"id": "d64ae5442bbc4eb8911c073954f1765a",
+			"label": "Bull 6",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a10G"
+			},
+			"scriptName": "Bull_6",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"d680c67a6bc94f8ea030759b9c847ddd": {
+			"id": "d680c67a6bc94f8ea030759b9c847ddd",
+			"label": "Bull 7",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a11"
+			},
+			"scriptName": "Bull_7",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"dc55087a11004443afbef463af5cc65e": {
+			"id": "dc55087a11004443afbef463af5cc65e",
+			"label": "VideoRecorderUI",
+			"parent": {
+				"id": "root",
+				"order": "Zx"
+			},
+			"scriptName": "VideoRecorderUI",
+			"type": "@zcomponent/videorecorder/lib/VideoRecorderUI#VideoRecorderUI"
+		},
+		"dcec3f90b7ea457698682246420d3393": {
+			"id": "dcec3f90b7ea457698682246420d3393",
+			"label": "MoonIndicator Material",
+			"parent": {
+				"id": "3b94f7320cff4c4cbceebe5c735b5745",
+				"order": "a0"
+			},
+			"scriptName": "MoonIndicator_Material",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"ea2f4196123646ebaafbb17faafd9752": {
+			"id": "ea2f4196123646ebaafbb17faafd9752",
+			"label": "Card",
+			"parent": {
+				"id": "32271ea950074a9f97ad9283d9d42f4a",
+				"order": "Zy8"
+			},
+			"scriptName": "Card",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"f06a0d916a874499bd9a57da0c8238bd": {
+			"id": "f06a0d916a874499bd9a57da0c8238bd",
+			"label": "Pisicis VignetteEffectPass",
+			"parent": {
+				"id": "910398b935224d309796706b66066ace",
+				"order": "a0"
+			},
+			"scriptName": "Pisicis_VignetteEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/VignetteEffect#VignetteEffectPass"
+		},
+		"f33b911eb86f44fcb7780026ce8a6154": {
+			"id": "f33b911eb86f44fcb7780026ce8a6154",
+			"label": "Horse 3",
+			"parent": {
+				"id": "25257e8b78c845d6b78ef78290860131",
+				"order": "a100V"
+			},
+			"scriptName": "Horse_3",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"f5c9df8558ef4457948316828ecba09a": {
+			"id": "f5c9df8558ef4457948316828ecba09a",
+			"label": "Taurus HueSaturationEffectPass",
+			"parent": {
+				"id": "30cf602d71ea4d4b9ce3ee5d2c59b7d8",
+				"order": "a0"
+			},
+			"scriptName": "Taurus_HueSaturationEffectPass",
+			"type": "@zcomponent/postprocessing/lib/components/HueSaturationEffect#HueSaturationEffectPass"
+		},
+		"fb6c765b23ab4de792b7f083df8a29c7": {
+			"id": "fb6c765b23ab4de792b7f083df8a29c7",
+			"label": "Heading",
+			"parent": {
+				"id": "3f81004d2c364baca896f82e6bbf70ac",
+				"order": "a4"
+			},
+			"scriptName": "Heading",
+			"type": "@zcomponent/html/lib/headings#H1"
+		},
+		"fc653bd251fb4a5dbc82ae460beb6f2f": {
+			"id": "fc653bd251fb4a5dbc82ae460beb6f2f",
+			"label": "Bull 10",
+			"parent": {
+				"id": "714bc9e134c74883a23c8a172f35a5ce",
+				"order": "a2"
+			},
+			"scriptName": "Bull_10",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"root": {
+			"id": "root",
+			"label": "Group",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		}
+	},
+	"preview": "@zcomponent/three/lib/preview#default",
+	"propEntityOverrides": {
+		"position": {
+			"root": {
+				"position": true
+			}
+		}
+	},
+	"props": {
+		"position": {
+			"comments": [
+				"The position, in 3D space, of this node relative to its parent. The three elements of the array correspond to the `x`, `y`, and `z` components of position."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "position",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"rotation": {
+			"comments": [
+				"The rotation, in three dimensions, of this node relative to its parent. The three elements of the array correspond to Euler angles - yaw, pitch and roll."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "rotation",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"scale": {
+			"comments": [
+				"The scale, in three dimensions, of this node relative to its parent. The three elements of the array correspond to scales in the the `x`, `y`, and `z` axis."
+			],
+			"default": [
+				1,
+				1,
+				1
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "scale",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"visible": {
+			"comments": [
+				"Determines if this object and its children are rendered to the screen."
+			],
+			"default": true,
+			"group": "Appearance",
+			"groupPriority": 11,
+			"name": "visible",
+			"type": {
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "boolean"
+			}
+		}
+	},
+	"root": "root"
+}

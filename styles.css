@@ -1,0 +1,136 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: "Roboto", "Helvetica", sans-serif;
+}
+
+/* Splash Screen styles */
+.splash {
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    /* background-image: url(./background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.splash-box {
+    width: 304px;
+    max-width: 90%;
+    background: rgba(31, 32, 33, 0.78);
+    border-radius: 8px;
+    padding: 50px 20px 50px 20px;
+    box-sizing: border-box;
+}
+
+.splash-box > h1 {
+    font-size: 34px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+.splash-box > h2 {
+    font-size: 24px;
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+.splash-highlight {
+    color: #ef5332
+}
+
+.zcomponent-launched .splash {
+    display: none;
+}
+
+/* Launch Button styles */
+#launchButton {
+    background-color: white; 
+    color: black;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 23px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    line-height: 24px;
+    height: 48px;
+}
+
+#launchButton:disabled {
+    background: none;
+    background-color: none;
+    width: 48px;
+    visibility: hidden;
+    padding: 0px;
+}
+
+#launchButton:disabled:before {
+    content: " ";
+    visibility: visible;
+    display: block;
+    width: 48px;
+    height: 48px;
+    margin: 0px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 5px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: loading-animation 1.2s linear infinite;
+}
+
+@keyframes loading-animation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Main Card style */
+.card {
+    background-color: black;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+}
+
+/* Heading Style */
+.card__title {
+    color: white;
+}
+
+/* Card footer style */
+.card_footer {
+    background-color: white;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+/* Button style */
+.button{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+}
+
+/* Update for button hover state */
+.button:hover {
+    background-color: white; 
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
